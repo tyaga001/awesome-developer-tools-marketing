@@ -66,6 +66,19 @@ This section covers strategies and resources for effective content marketing in 
 ### Best Practices
 - [Developer Marketing: 21 Communities to Consider](https://draft.dev/learn/developer-marketing-communities) - A comprehensive list of online communities for developer marketing by Karl Hughes.
 
+## Email Marketing
+
+### Articles
+- [Email Marketing for Developers](https://www.kalzumeus.com/2012/05/31/can-i-email/) - Patrick McKenzie's comprehensive guide on email marketing specifically for developers.
+- [The Art of Developer Newsletter](https://www.smashingmagazine.com/2021/03/art-developer-newsletter/) - Smashing Magazine's guide on creating effective newsletters for developers.
+
+### Tools
+- [Mailchimp](https://mailchimp.com/) - Popular email marketing platform with automation features.
+- [ConvertKit](https://convertkit.com/) - Email marketing tool designed for creators, including developers.
+- [Substack](https://substack.com/) - Platform for subscription newsletters, popular among tech writers.
+
+### Best Practices
+- [How to Write Email Newsletters Developers Will Read](https://buttercms.com/blog/how-to-write-email-newsletters-developers-will-read) - Tips on crafting engaging newsletters for a developer audience.
 
 
 ## About
