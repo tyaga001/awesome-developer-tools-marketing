@@ -55,8 +55,6 @@ Key takeaways:
 3. Focus on benefits, not just features
 4. Present a strong value proposition
 5. Use visually appealing designs that align with the product's purpose
-6. Highlight unique selling points (e.g., serverless, enterprise-ready, developer-focused)
-7. Offer multiple engagement options (e.g., "Get Started" and "Documentation")
 
 ## Books
 
