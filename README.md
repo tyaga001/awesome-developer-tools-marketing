@@ -152,6 +152,11 @@ This section covers strategies and resources for effective content marketing in 
 
 ## Technical Writing
 
+### Articles
+- [The Role of a Technical Writer in a Startup](https://theankurtyagi.com/technical-writer/) - Insighs on the role of technical writers in making complex concepts understandable and bridging gaps between developers and users.
+- [A Startup's Guide to Technical Content Creation](https://theankurtyagi.com/a-startups-guide-to-technical-content-creation/) - Explains how technical content creation helps SaaS companies grow, attract investors, and influence industry narratives.
+- [How Technical Writing Can Supercharge Your Startup](https://theankurtyagi.com/how-technical-writing-can-supercharge-your-startup/) - Explores how technical writing can enhance a startup's communication and content strategy.
+
 ### Courses
 - [Technical Writing Courses](https://developers.google.com/tech-writing) - Free technical writing courses offered by Google.
 - [Udemy Technical Writing Courses](https://www.udemy.com/topic/technical-writing/) - Various courses on technical writing available on Udemy.
