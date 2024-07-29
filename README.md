@@ -43,6 +43,11 @@ This section covers strategies and resources for effective content marketing in 
 
 - [Hashnode](https://hashnode.com/) - A blogging platform for developers.
 - [Dev.to](https://dev.to/) - A community of software developers writing articles on various topics.
+- [Medium](https://medium.com/) - A popular platform for long-form content, with many tech-focused publications.
+
+### Courses
+- [Developer Marketing and Relations: The Essential Guide](https://www.udemy.com/course/developer-marketing-and-relations-the-essential-guide/) - Udemy course by Adam DuVander on developer marketing fundamentals.
+
 
 ## About
 
