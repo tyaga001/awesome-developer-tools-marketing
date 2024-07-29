@@ -37,6 +37,20 @@ This section covers strategies and resources for effective content marketing in 
 - [The Epic Guide to Developer Marketing](https://www.devmarketingguide.com/) - A comprehensive guide by Matt Broberg covering various aspects of developer marketing.
 - [How to Create Differentiated SEO Content](https://hackmamba.io/blog/2024/06/how-to-create-differentiated-seo-content/) - A guide on creating unique SEO content for developer audiences.
 
+### DevTools with Great Landing Pages
+- **Stream**: Clear value proposition for in-app chat and feeds, with a compelling "Try Stream" CTA.
+- **Supabase**: Immediately grabs attention with "The Open Source Firebase Alternative" and clear feature list.
+- **Webflow**: Excellent segmentation for different audiences (designers, e-commerce, etc.).
+- **Courier**: Clearly addresses developer pain points with "Notifications are hard" and offers multiple CTAs.
+- **Doppler**: Solves a specific problem (environment variable syncing) with clear value propositions.
+- **Retool**: Strongly relates to developer experiences with internal tools and offers a clear solution.
+
+Key takeaways:
+1. Keep it simple and scannable
+2. Have a clear Call To Action (CTA)
+3. Focus on benefits, not just features
+4. Present a strong value proposition
+
 ## Books
 
 - [Developer Marketing: The Essential Guide](https://www.amazon.com/Developer-Marketing-Essential-Guide-SlashData/dp/171774222X) - A comprehensive guide by SlashData on developer marketing strategies.
