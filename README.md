@@ -51,6 +51,12 @@ This section covers strategies and resources for effective content marketing in 
 - **Neon** (https://neon.tech): Serverless Postgres with a modern, sleek interface.
 - **Supabase** (https://supabase.com/): Open-source Firebase alternative with clear feature comparisons.
 
+#### Developer Experience & Tooling
+- **CodeSandbox** (https://codesandbox.io/): Online code editor with an interactive homepage.
+- **Doppler** (https://www.doppler.com/): SecretOps platform with a clear problem-solution statement.
+- **Gitpod** (https://www.gitpod.io/): Dev environments with a visually appealing, action-oriented landing page.
+- **Retool** (https://retool.com/): Internal tool builder with relatable pain point messaging.
+
 
 ### DevTools with Great Landing Pages
 
