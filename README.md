@@ -39,6 +39,15 @@ This section covers strategies and resources for effective content marketing in 
 
 ### DevTools with Great Landing Pages
 
+#### APIs & Integration
+- **Courier** (https://www.courier.com/): Notification infrastructure for developers.
+- **Resend** (https://resend.com/): Email API for developers.
+- **Segment** (https://segment.com/): Customer data platform with a clean, informative layout.
+- **Zapier** (https://zapier.com/): Automation tool with clear value proposition for developers.
+
+
+### DevTools with Great Landing Pages
+
 - **Courier** (https://www.courier.com/): Clearly addresses developer pain points with "Notifications are hard" and offers multiple CTAs.
 - **Doppler** (https://www.doppler.com/): Solves a specific problem (environment variable syncing) with clear value propositions.
 - **Neon** (https://neon.tech): Offers a clear value proposition with "Ship faster with Postgres" and emphasizes serverless architecture for scalability.
