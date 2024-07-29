@@ -50,6 +50,7 @@ This section covers strategies and resources for effective content marketing in 
 ### Articles
 - [How to Do Social Media Marketing for Developers](https://medium.com/swlh/how-to-do-social-media-marketing-for-developers-386787c1ef93) - A guide by Poornima Vijayashanker on effective social media strategies for developers.
 - [Developer Relations and Social Media](https://developerrelations.com/developer-marketing/developer-relations-and-social-media) - Insights on using social media in developer relations by Matthew Revell.
+- [How to market to developers on Twitter](https://www.markepear.com/blog/developer-marketing-twitter) - Insights on using Twitter for developer tools marketing by Kuba.
 
 ### Platforms
 - [Twitter](https://twitter.com) - A popular platform for developer discussions and sharing.
