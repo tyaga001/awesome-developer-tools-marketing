@@ -41,6 +41,10 @@ This section covers strategies and resources for effective content marketing in 
 
 - [Developer Marketing: The Essential Guide](https://www.amazon.com/Developer-Marketing-Essential-Guide-SlashData/dp/171774222X) - A comprehensive guide by SlashData on developer marketing strategies.
 
+### Blogs
+- [DevRel.net](https://devrel.net/) - A community-driven blog with articles on developer relations and marketing.
+- [Coding VC](https://www.codingvc.com/) - Blog by Leo Polovets with insights on marketing to developers from a VC perspective.
+
 ## Tools
 
 - [Hashnode](https://theankurtyagi.hashnode.dev/a-software-developers-guide-to-writing) - A blogging platform for developers.
