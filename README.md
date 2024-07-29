@@ -68,8 +68,8 @@ This section covers strategies and resources for effective content marketing in 
 - [Sentry](https://sentry.io/): Error tracking with developer-friendly language and design.
 
 #### Security & Authentication
-- **Auth0** (https://auth0.com/): Authentication platform with a clean, trust-building layout.
-- **WorkOS** (https://workos.com/): Enterprise readiness APIs with a clear, benefit-driven message.
+- [Auth0](https://auth0.com/): Authentication platform with a clean, trust-building layout.
+- [WorkOS](https://workos.com/): Enterprise readiness APIs with a clear, benefit-driven message.
 
 #### Collaboration & Communication
 - **Confluence** (https://www.atlassian.com/software/confluence): Team workspace with a feature-rich, organized landing page.
