@@ -71,7 +71,10 @@ This section covers strategies and resources for effective content marketing in 
 - **Auth0** (https://auth0.com/): Authentication platform with a clean, trust-building layout.
 - **WorkOS** (https://workos.com/): Enterprise readiness APIs with a clear, benefit-driven message.
 
-
+#### Collaboration & Communication
+- **Confluence** (https://www.atlassian.com/software/confluence): Team workspace with a feature-rich, organized landing page.
+- **Miro** (https://miro.com/): Visual collaboration tool with an interactive, engaging homepage.
+- **Stream** (https://getstream.io/): Chat and activity feeds with a clear value proposition.
 
 
 ### DevTools with Great Landing Pages
