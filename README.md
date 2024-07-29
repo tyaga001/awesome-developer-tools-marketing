@@ -77,9 +77,9 @@ This section covers strategies and resources for effective content marketing in 
 - [Stream](https://getstream.io/): Chat and activity feeds with a clear value proposition.
 
 #### Design & Frontend
-- **Framer** (https://www.framer.com/): Web design tool with an eye-catching, interactive landing page.
-- **Storybook** (https://storybook.js.org/): UI component explorer with a visually appealing, informative design.
-- **Webflow** (https://webflow.com/): No-code web design tool with audience-specific messaging.
+- [Framer](https://www.framer.com/): Web design tool with an eye-catching, interactive landing page.
+- [Storybook](https://storybook.js.org/): UI component explorer with a visually appealing, informative design.
+- [Webflow](https://webflow.com/): No-code web design tool with audience-specific messaging.
 
 Key takeaways:
 1. Keep it simple and scannable
