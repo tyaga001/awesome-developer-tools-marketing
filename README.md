@@ -38,18 +38,25 @@ This section covers strategies and resources for effective content marketing in 
 - [How to Create Differentiated SEO Content](https://hackmamba.io/blog/2024/06/how-to-create-differentiated-seo-content/) - A guide on creating unique SEO content for developer audiences.
 
 ### DevTools with Great Landing Pages
+
 - **Stream**: Clear value proposition for in-app chat and feeds, with a compelling "Try Stream" CTA.
 - **Supabase**: Immediately grabs attention with "The Open Source Firebase Alternative" and clear feature list.
 - **Webflow**: Excellent segmentation for different audiences (designers, e-commerce, etc.).
 - **Courier**: Clearly addresses developer pain points with "Notifications are hard" and offers multiple CTAs.
 - **Doppler**: Solves a specific problem (environment variable syncing) with clear value propositions.
 - **Retool**: Strongly relates to developer experiences with internal tools and offers a clear solution.
+- **Neon**: Offers a clear value proposition with "Ship faster with Postgres" and emphasizes serverless architecture for scalability.
+- **WorkOS**: Targets enterprise-ready applications with a clear message "Your app, Enterprise Ready" and highlights quick implementation.
+- **Resend**: Focuses on "Email for developers" with a straightforward value proposition and visually striking design.
 
 Key takeaways:
 1. Keep it simple and scannable
 2. Have a clear Call To Action (CTA)
 3. Focus on benefits, not just features
 4. Present a strong value proposition
+5. Use visually appealing designs that align with the product's purpose
+6. Highlight unique selling points (e.g., serverless, enterprise-ready, developer-focused)
+7. Offer multiple engagement options (e.g., "Get Started" and "Documentation")
 
 ## Books
 
