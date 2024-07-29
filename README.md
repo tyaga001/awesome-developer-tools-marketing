@@ -76,6 +76,12 @@ This section covers strategies and resources for effective content marketing in 
 - **Miro** (https://miro.com/): Visual collaboration tool with an interactive, engaging homepage.
 - **Stream** (https://getstream.io/): Chat and activity feeds with a clear value proposition.
 
+#### Design & Frontend
+- **Framer** (https://www.framer.com/): Web design tool with an eye-catching, interactive landing page.
+- **Storybook** (https://storybook.js.org/): UI component explorer with a visually appealing, informative design.
+- **Webflow** (https://webflow.com/): No-code web design tool with audience-specific messaging.
+
+
 
 ### DevTools with Great Landing Pages
 
