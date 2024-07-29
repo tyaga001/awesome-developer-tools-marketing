@@ -123,20 +123,6 @@ This section covers strategies and resources for effective content marketing in 
 ### Best Practices
 - [How to Measure Developer Experience](https://www.developerexperience.org/articles/how-to-measure-developer-experience) - A guide on quantifying and improving developer experience.
 
-## Analytics and Metrics
-
-### Articles
-- [The Only Metrics That Matter for Developer Tools](https://www.heavybit.com/library/article/the-only-metrics-that-matter-for-developer-tools/) - Heavybit's guide on crucial metrics for developer tools.
-- [Measuring Developer Relations](https://www.stephenfluin.com/measuring-developer-relations/) - Stephen Fluin's insights on measuring the impact of developer relations.
-
-### Tools
-- [Google Analytics](https://analytics.google.com/) - Web analytics service that tracks and reports website traffic.
-- [Mixpanel](https://mixpanel.com/) - Product analytics tool for tracking user interactions with web and mobile applications.
-- [Amplitude](https://amplitude.com/) - Product analytics platform for tracking user behavior across devices.
-
-### Best Practices
-- [How to Measure Developer Experience](https://www.developerexperience.org/articles/how-to-measure-developer-experience) - A guide on quantifying and improving developer experience.
-
 ## Product Hunt Launch Strategies
 
 ### Articles
