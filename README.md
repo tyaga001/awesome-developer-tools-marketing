@@ -93,6 +93,23 @@ This section covers strategies and resources for effective content marketing in 
 ### Articles
 - [SEO for Developers in 100 Minutes](https://boagworld.com/dev/seo-for-developers/) - A quick, comprehensive guide by Paul Boag on SEO basics for developers.
 
+## Community Building
+
+### Books
+- [The Business Value of Developer Relations](https://www.amazon.com/Business-Value-Developer-Relations-Communities/dp/1484237471) - Comprehensive guide by Mary Thengvall on building developer communities.
+
+### Articles
+- [Building a Developer Community](https://www.developereconomics.com/building-a-developer-community) - Insights from Developer Economics on fostering a thriving developer community.
+- [How to Build a Strong Developer Community](https://www.indiehackers.com/post/how-to-build-a-strong-developer-community-4a84bbe1e9) - Practical advice from Indie Hackers on community building.
+
+### Platforms
+- [Discord](https://discord.com/) - Popular chat platform for community building, especially in tech.
+- [Discourse](https://www.discourse.org/) - Open-source discussion platform, great for developer forums.
+
+### Case Studies
+- [Twilio: Building a Developer Community](https://www.heavybit.com/library/video/twilio-building-a-developer-community/) - Heavybit's interview with Twilio on their community-building strategies.
+
+
 
 ## About
 
