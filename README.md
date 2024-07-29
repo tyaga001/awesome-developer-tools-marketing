@@ -37,7 +37,7 @@ This section covers strategies and resources for effective content marketing in 
 
 ## Books
 
-- [Developer Marketing: The Essential Guide](https://www.amazon.com/Developer-Marketing-Essential-Guide-SlashData/dp/1916164722) - A comprehensive guide by SlashData on developer marketing strategies.
+- [Developer Marketing: The Essential Guide](https://www.amazon.com/Developer-Marketing-Essential-Guide-SlashData/dp/171774222X) - A comprehensive guide by SlashData on developer marketing strategies.
 
 ## Tools
 
