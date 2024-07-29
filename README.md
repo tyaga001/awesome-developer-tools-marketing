@@ -57,6 +57,12 @@ This section covers strategies and resources for effective content marketing in 
 - **Gitpod** (https://www.gitpod.io/): Dev environments with a visually appealing, action-oriented landing page.
 - **Retool** (https://retool.com/): Internal tool builder with relatable pain point messaging.
 
+#### Infrastructure & Deployment
+- **Cloudflare** (https://www.cloudflare.com/): Web infrastructure with a clean, benefit-focused design.
+- **Netlify** (https://www.netlify.com/): Web hosting and automation with a developer-centric approach.
+- **Vercel** (https://vercel.com/): Frontend deployment with a sleek, performance-focused landing page.
+
+
 
 ### DevTools with Great Landing Pages
 
