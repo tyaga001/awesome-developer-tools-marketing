@@ -63,9 +63,9 @@ This section covers strategies and resources for effective content marketing in 
 - [Vercel](https://vercel.com/): Frontend deployment with a sleek, performance-focused landing page.
 
 #### Monitoring & Analytics
-- **Datadog** (https://www.datadoghq.com/): Monitoring and analytics with clear use-case presentations.
-- **New Relic** (https://newrelic.com/): Observability platform with a strong value proposition.
-- **Sentry** (https://sentry.io/): Error tracking with developer-friendly language and design.
+- [Datadog](https://www.datadoghq.com/): Monitoring and analytics with clear use-case presentations.
+- [New Relic](https://newrelic.com/): Observability platform with a strong value proposition.
+- [Sentry](https://sentry.io/): Error tracking with developer-friendly language and design.
 
 #### Security & Authentication
 - **Auth0** (https://auth0.com/): Authentication platform with a clean, trust-building layout.
