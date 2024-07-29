@@ -67,6 +67,11 @@ This section covers strategies and resources for effective content marketing in 
 - **New Relic** (https://newrelic.com/): Observability platform with a strong value proposition.
 - **Sentry** (https://sentry.io/): Error tracking with developer-friendly language and design.
 
+#### Security & Authentication
+- **Auth0** (https://auth0.com/): Authentication platform with a clean, trust-building layout.
+- **WorkOS** (https://workos.com/): Enterprise readiness APIs with a clear, benefit-driven message.
+
+
 
 
 ### DevTools with Great Landing Pages
