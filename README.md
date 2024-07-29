@@ -34,6 +34,8 @@ This section covers strategies and resources for effective content marketing in 
 ## Articles
 
 - [Developer Marketing Does Not Exist](https://everydeveloper.com/developer-marketing/) - An insightful article by Adam DuVander on the nature of developer marketing.
+- [The Epic Guide to Developer Marketing](https://www.devmarketingguide.com/) - A comprehensive guide by Matt Broberg covering various aspects of developer marketing.
+- [How to Create Differentiated SEO Content](https://hackmamba.io/blog/2024/06/how-to-create-differentiated-seo-content/) - A guide on creating unique SEO content for developer audiences.
 
 ## Books
 
