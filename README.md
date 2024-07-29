@@ -39,14 +39,15 @@ This section covers strategies and resources for effective content marketing in 
 
 ### DevTools with Great Landing Pages
 
-- **Stream** (https://getstream.io/): Clear value proposition for in-app chat and feeds, with a compelling "Try Stream" CTA.
-- **Supabase** (https://supabase.com/): Immediately grabs attention with "The Open Source Firebase Alternative" and clear feature list.
 - **Courier** (https://www.courier.com/): Clearly addresses developer pain points with "Notifications are hard" and offers multiple CTAs.
 - **Doppler** (https://www.doppler.com/): Solves a specific problem (environment variable syncing) with clear value propositions.
-- **Retool** (https://retool.com/): Strongly relates to developer experiences with internal tools and offers a clear solution.
 - **Neon** (https://neon.tech): Offers a clear value proposition with "Ship faster with Postgres" and emphasizes serverless architecture for scalability.
-- **WorkOS** (https://workos.com/): Targets enterprise-ready applications with a clear message "Your app, Enterprise Ready" and highlights quick implementation.
 - **Resend** (https://resend.com/): Focuses on "Email for developers" with a straightforward value proposition and visually striking design.
+- **Retool** (https://retool.com/): Strongly relates to developer experiences with internal tools and offers a clear solution.
+- **Stream** (https://getstream.io/): Clear value proposition for in-app chat and feeds, with a compelling "Try Stream" CTA.
+- **Supabase** (https://supabase.com/): Immediately grabs attention with "The Open Source Firebase Alternative" and clear feature list.
+- **Webflow** (https://webflow.com/): Excellent segmentation for different audiences (designers, e-commerce, etc.).
+- **WorkOS** (https://workos.com/): Targets enterprise-ready applications with a clear message "Your app, Enterprise Ready" and highlights quick implementation.
 
 Key takeaways:
 1. Keep it simple and scannable
