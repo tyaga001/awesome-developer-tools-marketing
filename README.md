@@ -6,28 +6,28 @@ A curated list of awesome resources for marketing developer tools. This open-sou
 
 ## Table of Contents
 
-1. [Content Marketing](content-marketing.md)
-2. [Social Media Marketing](social-media-marketing.md)
-3. [Email Marketing](email-marketing.md)
-4. [SEO for Developers](seo-for-developers.md)
-5. [Community Building](community-building.md)
-6. [Analytics and Metrics](analytics-and-metrics.md)
-7. [Product Hunt Launch Strategies](product-hunt-strategies.md)
-8. [Developer Relations (DevRel)](developer-relations.md)
-9. [Technical Writing](technical-writing.md)
-10. [Public Speaking and Conferences](public-speaking.md)
-11. [Open Source Marketing](open-source-marketing.md)
-12. [Developer Surveys and Feedback](developer-surveys.md)
-13. [API Documentation](api-documentation.md)
-14. [Developer Advocacy](developer-advocacy.md)
-15. [Influencer Marketing in Tech](influencer-marketing.md)
-16. [Podcast Marketing](podcast-marketing.md)
-17. [Webinar and Workshop Strategies](webinar-strategies.md)
-18. [Growth Hacking for Developer Tools](growth-hacking.md)
-19. [Marketing Automation for Dev Tools](marketing-automation.md)
-20. [Competitive Analysis in Dev Space](competitive-analysis.md)
+1. [Content Marketing](#content-marketing)
+2. [Social Media Marketing](#social-media-marketing)
+3. [Email Marketing](#email-marketing)
+4. [SEO for Developers](#seo-for-developers)
+5. [Community Building](#community-building)
+6. [Analytics and Metrics](#analytics-and-metrics)
+7. [Product Hunt Launch Strategies](#product-hunt-launch-strategies)
+8. [Developer Relations (DevRel)](#developer-relations-devrel)
+9. [Technical Writing](#technical-writing)
+10. [Public Speaking and Conferences](#public-speaking-and-conferences)
+11. [Open Source Marketing](#open-source-marketing)
+12. [Developer Surveys and Feedback](#developer-surveys-and-feedback)
+13. [API Documentation](#api-documentation)
+14. [Developer Advocacy](#developer-advocacy)
+15. [Influencer Marketing in Tech](#influencer-marketing-in-tech)
+16. [Podcast Marketing](#podcast-marketing)
+17. [Webinar and Workshop Strategies](#webinar-and-workshop-strategies)
+18. [Growth Hacking for Developer Tools](#growth-hacking-for-developer-tools)
+19. [Marketing Automation for Dev Tools](#marketing-automation-for-dev-tools)
+20. [Competitive Analysis in Dev Space](#competitive-analysis-in-dev-space)
 
-# Content Marketing for Developers
+# Content Marketing
 
 This section covers strategies and resources for effective content marketing in the developer space.
 
