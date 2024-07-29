@@ -52,10 +52,10 @@ This section covers strategies and resources for effective content marketing in 
 - [Supabase](https://supabase.com/): Open-source Firebase alternative with clear feature comparisons.
 
 #### Developer Experience & Tooling
-- **CodeSandbox** (https://codesandbox.io/): Online code editor with an interactive homepage.
-- **Doppler** (https://www.doppler.com/): SecretOps platform with a clear problem-solution statement.
-- **Gitpod** (https://www.gitpod.io/): Dev environments with a visually appealing, action-oriented landing page.
-- **Retool** (https://retool.com/): Internal tool builder with relatable pain point messaging.
+- [CodeSandbox](https://codesandbox.io/): Online code editor with an interactive homepage.
+- [Doppler](https://www.doppler.com/): SecretOps platform with a clear problem-solution statement.
+- [Gitpod](https://www.gitpod.io/): Dev environments with a visually appealing, action-oriented landing page.
+- [Retool](https://retool.com/): Internal tool builder with relatable pain point messaging.
 
 #### Infrastructure & Deployment
 - **Cloudflare** (https://www.cloudflare.com/): Web infrastructure with a clean, benefit-focused design.
