@@ -27,6 +27,23 @@ A curated list of awesome resources for marketing developer tools. This open-sou
 19. [Marketing Automation for Dev Tools](marketing-automation.md)
 20. [Competitive Analysis in Dev Space](competitive-analysis.md)
 
+# Content Marketing for Developers
+
+This section covers strategies and resources for effective content marketing in the developer space.
+
+## Articles
+
+- [Developer Marketing Does Not Exist](https://everydeveloper.com/developer-marketing/) - An insightful article by Adam DuVander on the nature of developer marketing.
+
+## Books
+
+- [Developer Marketing: The Essential Guide](https://www.amazon.com/Developer-Marketing-Essential-Guide-SlashData/dp/1916164722) - A comprehensive guide by SlashData on developer marketing strategies.
+
+## Tools
+
+- [Hashnode](https://hashnode.com/) - A blogging platform for developers.
+- [Dev.to](https://dev.to/) - A community of software developers writing articles on various topics.
+
 ## About
 
 Awesome Developer Tools Marketing is an open-source repository that collects and organizes resources for marketing developer tools and services. my goal is to help founders, marketers, and developers find effective strategies and tools for reaching and engaging with the developer community.
