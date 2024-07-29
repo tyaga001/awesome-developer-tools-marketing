@@ -45,6 +45,27 @@ This section covers strategies and resources for effective content marketing in 
 - [Dev.to](https://dev.to/agentcloud/how-to-build-a-rag-chat-app-with-agent-cloud-and-bigquery-15b) - A community of software developers writing articles on various topics.
 - [Medium](https://javascript.plainenglish.io/how-to-add-authentication-secure-harperdb-apis-using-supertokens-in-your-react-app-d3af60ae45bb) - A popular platform for long-form content, with many tech-focused publications.
 
+## Social Media Marketing
+
+### Articles
+- [How to Do Social Media Marketing for Developers](https://medium.com/swlh/how-to-do-social-media-marketing-for-developers-386787c1ef93) - A guide by Poornima Vijayashanker on effective social media strategies for developers.
+- [Developer Relations and Social Media](https://developerrelations.com/developer-marketing/developer-relations-and-social-media) - Insights on using social media in developer relations by Matthew Revell.
+
+### Platforms
+- [Twitter](https://twitter.com) - A popular platform for developer discussions and sharing.
+- [LinkedIn](https://www.linkedin.com) - Professional networking and content sharing.
+- [Reddit](https://www.reddit.com) - Various subreddits for different programming languages and technologies.
+- [GitHub](https://github.com) - While primarily for code, GitHub can be used for social sharing and community building.
+
+### Tools
+- [Buffer](https://buffer.com/) - Social media management platform.
+- [Hootsuite](https://hootsuite.com/) - Social media marketing and management dashboard.
+- [TweetDeck](https://tweetdeck.twitter.com/) - Twitter dashboard for managing multiple accounts and scheduling tweets.
+
+### Best Practices
+- [Developer Marketing: 21 Communities to Consider](https://draft.dev/learn/developer-marketing-communities) - A comprehensive list of online communities for developer marketing by Karl Hughes.
+
+
 
 ## About
 
