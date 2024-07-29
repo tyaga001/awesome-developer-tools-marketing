@@ -45,9 +45,6 @@ This section covers strategies and resources for effective content marketing in 
 - [Dev.to](https://dev.to/agentcloud/how-to-build-a-rag-chat-app-with-agent-cloud-and-bigquery-15b) - A community of software developers writing articles on various topics.
 - [Medium](https://javascript.plainenglish.io/how-to-add-authentication-secure-harperdb-apis-using-supertokens-in-your-react-app-d3af60ae45bb) - A popular platform for long-form content, with many tech-focused publications.
 
-### Courses
-- [Developer Marketing and Relations: The Essential Guide](https://www.udemy.com/course/developer-marketing-and-relations-the-essential-guide/) - Udemy course by Adam DuVander on developer marketing fundamentals.
-
 
 ## About
 
