@@ -41,7 +41,6 @@ This section covers strategies and resources for effective content marketing in 
 
 - **Stream** (https://getstream.io/): Clear value proposition for in-app chat and feeds, with a compelling "Try Stream" CTA.
 - **Supabase** (https://supabase.com/): Immediately grabs attention with "The Open Source Firebase Alternative" and clear feature list.
-- **Webflow** (https://webflow.com/): Excellent segmentation for different audiences (designers, e-commerce, etc.).
 - **Courier** (https://www.courier.com/): Clearly addresses developer pain points with "Notifications are hard" and offers multiple CTAs.
 - **Doppler** (https://www.doppler.com/): Solves a specific problem (environment variable syncing) with clear value propositions.
 - **Retool** (https://retool.com/): Strongly relates to developer experiences with internal tools and offers a clear solution.
