@@ -45,6 +45,12 @@ This section covers strategies and resources for effective content marketing in 
 - **Segment** (https://segment.com/): Customer data platform with a clean, informative layout.
 - **Zapier** (https://zapier.com/): Automation tool with clear value proposition for developers.
 
+#### Databases & Data
+- **Cockroach Labs** (https://www.cockroachlabs.com/): Distributed SQL database with a compelling hero section.
+- **Datomic** (https://www.datomic.com/): Transactional database with a unique, minimalist design.
+- **Neon** (https://neon.tech): Serverless Postgres with a modern, sleek interface.
+- **Supabase** (https://supabase.com/): Open-source Firebase alternative with clear feature comparisons.
+
 
 ### DevTools with Great Landing Pages
 
