@@ -111,6 +111,13 @@ Key takeaways:
 - [Developer Relations and Social Media](https://developerrelations.com/developer-marketing/developer-relations-and-social-media) - Insights on using social media in developer relations by Matthew Revell.
 - [How to market to developers on Twitter](https://www.markepear.com/blog/developer-marketing-twitter) - Insights on using Twitter for developer tools marketing by Kuba.
 
+#### Twitter
+
+- **"Timer" Twitter video ad from Kinde**
+  - ![Timer Twitter video ad from Kinde](https://www.markepear.com/example/kinde-twitter-video-ad)
+  - Description: Timer to show how quickly you can build with Kinde.
+
+
 ### Platforms
 - [Twitter](https://twitter.com) - A popular platform for developer discussions and sharing.
 - [LinkedIn](https://www.linkedin.com) - Professional networking and content sharing.
