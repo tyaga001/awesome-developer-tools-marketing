@@ -38,6 +38,17 @@ This section covers strategies and resources for effective content marketing in 
 - [How to Create Differentiated SEO Content](https://hackmamba.io/blog/2024/06/how-to-create-differentiated-seo-content/) - A guide on creating unique SEO content for developer audiences.
 - [Developer Marketing Guide (by Jakub (Kuba) Czakon)](https://www.markepear.com/blog/developer-marketing-guide) - A comprehensive guide on developer marketing strategies from the perspective of a dev tool startup CMO.
 
+### Content Marketing
+
+- **Demo page from Posthog**
+  - ![Demo page from Posthog](https://www.markepear.com/example/posthog-recorded-demo-page)
+  - Description: Sign up for free plan when you watch it. Get a customized demo and "talk to us" only if you want to.
+
+- **Posthog "do not talk to us" copy**
+  - ![Posthog "do not talk to us" copy](https://www.markepear.com/example/posthog-do-not-talk-to-us)
+  - Description: Most devs don't want to have to talk to you.
+
+
 
 ### DevTools with Great Landing Pages
 
