@@ -258,6 +258,8 @@ Key takeaways:
 ### Articles
 - [Marketing an Open Source Project](https://opensource.guide/finding-users/) - GitHub's guide on marketing open source projects.
 - [How to Market an Open Source Project](https://www.linuxfoundation.org/blog/2020/08/how-to-market-an-open-source-project/) - Linux Foundation's insights on open source marketing.
+- **[Tips and Tricks to Increase Signup and Activation in Open-Core SaaS](https://www.battery.com/blog/tips-and-tricks-to-increase-signup-and-activation-in-open-core-saas/)** - Strategies to improve user signup and activation rates in open-core SaaS products by Barak Schoster.
+
 
 ### Case Studies
 - [How Kubernetes Took Over the World](https://thenewstack.io/how-kubernetes-came-to-rule-the-world/) - Analysis of Kubernetes' successful open source strategy.
