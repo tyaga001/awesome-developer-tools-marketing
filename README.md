@@ -115,9 +115,7 @@ Key takeaways:
 
 #### Twitter
 
-- **"Timer" Twitter video ad from Kinde**
-  - ![Timer Twitter video ad from Kinde](https://www.markepear.com/example/kinde-twitter-video-ad)
-  - Description: Timer to show how quickly you can build with Kinde.
+- [Timer Twitter video ad from Kinde](https://www.markepear.com/example/kinde-twitter-video-ad) - Timer to showing how quickly you can build with Kinde.
 
 
 ### Platforms
