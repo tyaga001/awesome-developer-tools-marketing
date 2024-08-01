@@ -38,8 +38,6 @@ This section covers strategies and resources for effective content marketing in 
 - [How to Create Differentiated SEO Content](https://hackmamba.io/blog/2024/06/how-to-create-differentiated-seo-content/) - A guide on creating unique SEO content for developer audiences.
 - [Developer Marketing Guide (by Jakub (Kuba) Czakon)](https://www.markepear.com/blog/developer-marketing-guide) - A comprehensive guide on developer marketing strategies from the perspective of a dev tool startup CMO.
 
-### Content Marketing
-
 - **Demo page from Posthog**
   - ![Demo page from Posthog](https://www.markepear.com/example/posthog-recorded-demo-page)
   - Description: Sign up for free plan when you watch it. Get a customized demo and "talk to us" only if you want to.
@@ -101,7 +99,7 @@ Key takeaways:
 4. Present a strong value proposition
 5. Use visually appealing designs that align with the product's purpose
 
-## Books
+### Books
 
 - [Developer Marketing: The Essential Guide](https://www.amazon.com/Developer-Marketing-Essential-Guide-SlashData/dp/171774222X) - A comprehensive guide by SlashData on developer marketing strategies.
 
@@ -109,11 +107,13 @@ Key takeaways:
 - [DevRel.net](https://devrel.net/) - A community-driven blog with articles on developer relations and marketing.
 - [Coding VC](https://www.codingvc.com/) - Blog by Leo Polovets with insights on marketing to developers from a VC perspective.
 
-## Tools
+### Blogging Platforms
 
-- [Hashnode](https://theankurtyagi.hashnode.dev/a-software-developers-guide-to-writing) - A blogging platform for developers.
-- [Dev.to](https://dev.to/agentcloud/how-to-build-a-rag-chat-app-with-agent-cloud-and-bigquery-15b) - A community of software developers writing articles on various topics.
-- [Medium](https://javascript.plainenglish.io/how-to-add-authentication-secure-harperdb-apis-using-supertokens-in-your-react-app-d3af60ae45bb) - A popular platform for long-form content, with many tech-focused publications.
+- **[Hashnode](https://theankurtyagi.hashnode.dev/a-software-developers-guide-to-writing)** - A blogging platform for developers.
+- **[Dev.to](https://dev.to/agentcloud/how-to-build-a-rag-chat-app-with-agent-cloud-and-bigquery-15b)** - A community of software developers writing articles on various topics.
+- **[Medium](https://javascript.plainenglish.io/how-to-add-authentication-secure-harperdb-apis-using-supertokens-in-your-react-app-d3af60ae45bb)** - A popular platform for long-form content, with many tech-focused publications.
+- **[Free Code Camp](https://www.freecodecamp.org/news/author/theankurtyagi/)** - A platform for learning to code with articles and tutorials.
+- **[Hacker Noon](https://hackernoon.com/u/theankurtyagi)** - A platform for tech professionals to share their stories and insights.
 
 ## Social Media Marketing
 
