@@ -200,6 +200,12 @@ Key takeaways:
 ### Articles
 - [How to Launch on Product Hunt](https://blog.producthunt.com/how-to-launch-on-product-hunt-7c1843e06399) - Official guide from Product Hunt on how to launch successfully.
 - [How to Launch Successfully on Product Hunt](https://www.permit.io/blog/producthunt-howto) - A comprehensive guide by Permit.io on the best practices, tips, and strategies to successfully launch your product on Product Hunt.
+- [Successfully Launch Developer Tools on Product Hunt](https://ronakganatra.com/posts/successfully-launch-dev-tools-on-producthunt) - Insights and strategies from Ronak Ganatra on how to successfully launch developer tools on Product Hunt.
+- [Lago's Product Hunt Launch Handbook](https://github.com/getlago/lago/wiki/Product-Hunt-launch-:-our-handbook) - Lago's detailed handbook sharing their experiences and best practices for launching on Product Hunt.
+- [#1 Developer Tool of the Month](https://dev.to/tanyarai/1-developer-tool-of-the-month-1o41) - Tanya Rai shares her experience and the steps taken to achieve the #1 developer tool spot on Product Hunt.
+- [How We Missed #1 on Product Hunt but Still Won Big](https://dev.to/daytona/how-we-missed-1-on-product-hunt-but-still-won-big-1gig) - Daytona's story of missing the top spot on Product Hunt but gaining valuable insights and success.
+- [Product Hunt Series by Florian Merian](https://dev.to/fmerian/series/27917) - A series of articles by Florian Merian detailing various aspects of launching on Product Hunt.
+
 
 ### Case Studies
 - [How Notion Launched on Product Hunt](https://www.productschool.com/blog/product-management-2/how-notion-launched-on-product-hunt/) - Analysis of Notion's successful Product Hunt launch strategy.
