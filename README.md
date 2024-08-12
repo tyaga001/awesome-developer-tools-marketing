@@ -199,7 +199,7 @@ Key takeaways:
 
 ### Articles
 - [How to Launch on Product Hunt](https://blog.producthunt.com/how-to-launch-on-product-hunt-7c1843e06399) - Official guide from Product Hunt on how to launch successfully.
-- - [How to Launch Successfully on Product Hunt](https://www.permit.io/blog/producthunt-howto) - A comprehensive guide by Permit.io on the best practices, tips, and strategies to successfully launch your product on Product Hunt.
+- [How to Launch Successfully on Product Hunt](https://www.permit.io/blog/producthunt-howto) - A comprehensive guide by Permit.io on the best practices, tips, and strategies to successfully launch your product on Product Hunt.
 
 ### Case Studies
 - [How Notion Launched on Product Hunt](https://www.productschool.com/blog/product-management-2/how-notion-launched-on-product-hunt/) - Analysis of Notion's successful Product Hunt launch strategy.
