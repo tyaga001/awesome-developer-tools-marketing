@@ -37,6 +37,8 @@ This section covers strategies and resources for effective content marketing in 
 - [The Epic Guide to Developer Marketing](https://www.devmarketingguide.com/) - A comprehensive guide by Matt Broberg covering various aspects of developer marketing.
 - [How to Create Differentiated SEO Content](https://hackmamba.io/blog/2024/06/how-to-create-differentiated-seo-content/) - A guide on creating unique SEO content for developer audiences.
 - [Developer Marketing Guide (by Jakub (Kuba) Czakon)](https://www.markepear.com/blog/developer-marketing-guide) - A comprehensive guide on developer marketing strategies from the perspective of a dev tool startup CMO.
+- [On Developer Marketing: Content that Converts](https://leerob.io/blog/developer-marketing) - Lee Robinson shares insights on creating effective content marketing strategies specifically tailored for developers, focusing on content that converts.
+
 
 
 ### DevTools with Great Landing Pages
