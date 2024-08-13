@@ -223,6 +223,8 @@ Key takeaways:
 ### Articles
 - [What is Developer Relations?](https://www.slashdata.co/blog/what-is-developer-relations) - An explainer by SlashData on the concept and importance of DevRel.
 - [The Developer Relations Handbook](https://developerrelations.com/handbook) - A comprehensive guide to developer relations by Matthew Revell.
+- [Developer Experience](https://leerob.io/blog/developer-experience) - Lee Robinson discusses the importance of developer experience and how to optimize it for better engagement and satisfaction in your developer community.
+
 
 ### Communities
 - [DevRel Collective](https://devrelcollective.fun/) - A community of DevRel professionals sharing knowledge and experiences.
