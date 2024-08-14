@@ -161,7 +161,6 @@ Key takeaways:
 - [The Business Value of Developer Relations](https://www.amazon.com/Business-Value-Developer-Relations-Communities/dp/1484237471) - Comprehensive guide by Mary Thengvall on building developer communities.
 
 ### Articles
-- [Building a Developer Community](https://www.developereconomics.com/building-a-developer-community) - Insights from Developer Economics on fostering a thriving developer community.
 - [How to Build a Strong Developer Community](https://www.indiehackers.com/post/how-to-build-a-strong-developer-community-4a84bbe1e9) - Practical advice from Indie Hackers on community building.
 
 ### Platforms
