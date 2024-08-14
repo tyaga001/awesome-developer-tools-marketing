@@ -362,6 +362,8 @@ Key takeaways:
 ### Articles
 - [How to Do Competitive Analysis for Developer Tools](https://www.heavybit.com/library/article/how-to-do-competitive-analysis-for-developer-tools) - Heavybit's guide on analyzing competitors in the developer tools market.
 - [Competitive Intelligence for Developer-Focused Products](https://www.productboard.com/blog/competitive-intelligence-for-developer-focused-products/) - ProductBoard's insights on gathering competitive intelligence.
+- [Neon vs. Supabase](https://www.devtoolsacademy.com/blog/neon-vs-supabase) - A detailed comparison of Neon and Supabase, exploring their features, strengths, and weaknesses to help developers choose the right tool for their needs.
+
 
 ### Tools
 - [G2](https://www.g2.com/) - Platform for discovering and comparing software products.
