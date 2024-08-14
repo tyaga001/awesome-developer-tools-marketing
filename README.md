@@ -130,13 +130,9 @@ Key takeaways:
 - [TweetDeck](https://tweetdeck.twitter.com/) - Twitter dashboard for managing multiple accounts and scheduling tweets.
 
 ### Communities
-- [Circuit](https://circuit.ooo/) - A strategic growth company founded by the team behind "In Plain English", offering developer marketing services and insights.
 - [EveryDeveloper](https://everydeveloper.com/) - A technical content marketing platform run by Adam DuVander, author of "Developer Marketing Does Not Exist".
 - [Developer Markepear](https://www.developermarkepear.com/) - Started by Kuba Czakon, CMO of neptune.ai, offering resources and insights from real-world developer marketing experience.
 - [Draft.dev](https://draft.dev/) - A platform focused on delivering technical marketing content written by experienced developers who are also skilled writers.
-
-### Best Practices
-- [Developer Marketing: 21 Communities to Consider](https://draft.dev/learn/developer-marketing-communities) - A comprehensive list of online communities for developer marketing by Karl Hughes.
 
 ## Email Marketing
 
