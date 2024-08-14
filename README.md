@@ -137,7 +137,6 @@ Key takeaways:
 ## Email Marketing
 
 ### Articles
-- [Email Marketing for Developers](https://www.kalzumeus.com/2012/05/31/can-i-email/) - Patrick McKenzie's comprehensive guide on email marketing specifically for developers.
 - [The Art of Developer Newsletter](https://www.smashingmagazine.com/2021/03/art-developer-newsletter/) - Smashing Magazine's guide on creating effective newsletters for developers.
 
 ### Tools
@@ -145,21 +144,16 @@ Key takeaways:
 - [ConvertKit](https://convertkit.com/) - Email marketing tool designed for creators, including developers.
 - [Substack](https://substack.com/) - Platform for subscription newsletters, popular among tech writers.
 
-### Best Practices
-- [How to Write Email Newsletters Developers Will Read](https://buttercms.com/blog/how-to-write-email-newsletters-developers-will-read) - Tips on crafting engaging newsletters for a developer audience.
-
 ## SEO for Developers
 
 ### Guides
 - [SEO for Developers](https://developers.google.com/search/docs/fundamentals/seo-starter-guide) - Google's official SEO starter guide for developers.
-- [Technical SEO for Developers](https://www.conductor.com/learning-center/technical-seo/) - Conductor's comprehensive guide on technical SEO.
 
 ### Tools
 - [Google Search Console](https://search.google.com/search-console/about) - Free tool from Google to help you monitor and troubleshoot your site's presence in Google Search results.
 - [Screaming Frog SEO Spider](https://www.screamingfrog.co.uk/seo-spider/) - Website crawler to help you improve onsite SEO.
 
 ### Articles
-- [SEO for Developers in 100 Minutes](https://boagworld.com/dev/seo-for-developers/) - A quick, comprehensive guide by Paul Boag on SEO basics for developers.
 
 ## Community Building
 
