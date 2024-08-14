@@ -39,8 +39,6 @@ This section covers strategies and resources for effective content marketing in 
 - [Developer Marketing Guide (by Jakub (Kuba) Czakon)](https://www.markepear.com/blog/developer-marketing-guide) - A comprehensive guide on developer marketing strategies from the perspective of a dev tool startup CMO.
 - [On Developer Marketing: Content that Converts](https://leerob.io/blog/developer-marketing) - Lee Robinson shares insights on creating effective content marketing strategies specifically tailored for developers, focusing on content that converts.
 
-
-
 ### DevTools with Great Landing Pages
 
 #### APIs & Integration
@@ -59,6 +57,7 @@ This section covers strategies and resources for effective content marketing in 
 - [CodeSandbox](https://codesandbox.io/): Online code editor with an interactive homepage.
 - [Doppler](https://www.doppler.com/): SecretOps platform with a clear problem-solution statement.
 - [Gitpod](https://www.gitpod.io/): Dev environments with a visually appealing, action-oriented landing page.
+- [Mintlify](https://mintlify.com): Developer documentation platform.
 - [Retool](https://retool.com/): Internal tool builder with relatable pain point messaging.
 
 #### Infrastructure & Deployment
@@ -117,7 +116,6 @@ Key takeaways:
 
 - [Timer Twitter video ad from Kinde](https://www.markepear.com/example/kinde-twitter-video-ad) - Timer to showing how quickly you can build with Kinde.
 
-
 ### Platforms
 - [Twitter](https://twitter.com) - A popular platform for developer discussions and sharing.
 - [LinkedIn](https://www.linkedin.com) - Professional networking and content sharing.
@@ -127,11 +125,13 @@ Key takeaways:
 ### Tools
 - [Buffer](https://buffer.com/) - Social media management platform.
 - [Hootsuite](https://hootsuite.com/) - Social media marketing and management dashboard.
+- [Typefully](https://typefully.com) - Write, schedule, and publish posts for LinkedIn, Mastodon, and 𝕏.
 - [TweetDeck](https://tweetdeck.twitter.com/) - Twitter dashboard for managing multiple accounts and scheduling tweets.
 
 ### Communities
 - [EveryDeveloper](https://everydeveloper.com/) - A technical content marketing platform run by Adam DuVander, author of "Developer Marketing Does Not Exist".
 - [Developer Markepear](https://www.developermarkepear.com/) - Started by Kuba Czakon, CMO of neptune.ai, offering resources and insights from real-world developer marketing experience.
+- [Developer Marketing Community](https://go.marketingto.dev/) — A community of tech founders and marketers to share insights and best practices.
 - [Draft.dev](https://draft.dev/) - A platform focused on delivering technical marketing content written by experienced developers who are also skilled writers.
 
 ## Email Marketing
@@ -193,14 +193,13 @@ Key takeaways:
 - [Lago's Product Hunt Launch Handbook](https://github.com/getlago/lago/wiki/Product-Hunt-launch-:-our-handbook) - Lago's detailed handbook sharing their experiences and best practices for launching on Product Hunt.
 - [#1 Developer Tool of the Month](https://dev.to/tanyarai/1-developer-tool-of-the-month-1o41) - Tanya Rai shares her experience and the steps taken to achieve the #1 developer tool spot on Product Hunt.
 - [How We Missed #1 on Product Hunt but Still Won Big](https://dev.to/daytona/how-we-missed-1-on-product-hunt-but-still-won-big-1gig) - Daytona's story of missing the top spot on Product Hunt but gaining valuable insights and success.
-- [Product Hunt Series by Florian Merian](https://dev.to/fmerian/series/27917) - A series of articles by Florian Merian detailing various aspects of launching on Product Hunt.
-
+- [Product Hunt Series by Flo Merian](https://mktto.dev/meow) - A series of articles by Flo Merian detailing various aspects of launching on Product Hunt.
 
 ### Case Studies
 - [How Notion Launched on Product Hunt](https://www.productschool.com/blog/product-management-2/how-notion-launched-on-product-hunt/) - Analysis of Notion's successful Product Hunt launch strategy.
 
 ### Tools
-- [Ship by Product Hunt](https://www.producthunt.com/ship) - Tools to help you ship, get feedback, and grow your product.
+- [hunted.space](https://hunted.space) - Insights on Product Hunt launches.
 
 ## Developer Relations (DevRel)
 
@@ -212,9 +211,9 @@ Key takeaways:
 - [The Developer Relations Handbook](https://developerrelations.com/handbook) - A comprehensive guide to developer relations by Matthew Revell.
 - [Developer Experience](https://leerob.io/blog/developer-experience) - Lee Robinson discusses the importance of developer experience and how to optimize it for better engagement and satisfaction in your developer community.
 
-
 ### Communities
 - [DevRel Collective](https://devrelcollective.fun/) - A community of DevRel professionals sharing knowledge and experiences.
+- [Developer Marketing Community](https://go.marketingto.dev/) — A community of tech founders and marketers to share insights and best practices.
 
 ### Podcasts
 - [DevRelRadio](https://devrelrad.io/) - Podcast featuring interviews with DevRel professionals and thought leaders.
@@ -257,7 +256,6 @@ Key takeaways:
 - [How to Market an Open Source Project](https://www.linuxfoundation.org/blog/2020/08/how-to-market-an-open-source-project/) - Linux Foundation's insights on open source marketing.
 - **[Tips and Tricks to Increase Signup and Activation in Open-Core SaaS](https://www.battery.com/blog/tips-and-tricks-to-increase-signup-and-activation-in-open-core-saas/)** - Strategies to improve user signup and activation rates in open-core SaaS products by Barak Schoster.
 
-
 ### Case Studies
 - [How Kubernetes Took Over the World](https://thenewstack.io/how-kubernetes-came-to-rule-the-world/) - Analysis of Kubernetes' successful open source strategy.
 
@@ -283,6 +281,7 @@ Key takeaways:
 - [Swagger](https://swagger.io/) - Suite of tools for designing, building, and documenting RESTful APIs.
 - [ReadMe](https://readme.com/) - Platform for creating beautiful, interactive API documentation.
 - [Postman](https://www.postman.com/) - Collaboration platform for API development with built-in tools for creating API documentation.
+- [Mintlify](https://mintlify.com): Developer documentation platform.
 
 ### Best Practices
 - [Best Practices in API Documentation](https://idratherbewriting.com/learnapidoc/docapis_best_practices_with_api_documentation.html) - Comprehensive guide on API documentation best practices.
@@ -295,6 +294,7 @@ Key takeaways:
 
 ### Communities
 - [DevRel Collective](https://devrelcollective.fun/) - A community of developer advocates and DevRel professionals.
+- [Developer Marketing Community](https://go.marketingto.dev/) — A community of tech founders and marketers to share insights and best practices.
 
 ## Influencer Marketing in Tech
 
@@ -350,7 +350,6 @@ Key takeaways:
 - [How to Do Competitive Analysis for Developer Tools](https://www.heavybit.com/library/article/how-to-do-competitive-analysis-for-developer-tools) - Heavybit's guide on analyzing competitors in the developer tools market.
 - [Competitive Intelligence for Developer-Focused Products](https://www.productboard.com/blog/competitive-intelligence-for-developer-focused-products/) - ProductBoard's insights on gathering competitive intelligence.
 - [Neon vs. Supabase](https://www.devtoolsacademy.com/blog/neon-vs-supabase) - A detailed comparison of Neon and Supabase, exploring their features, strengths, and weaknesses to help developers choose the right tool for their needs.
-
 
 ### Tools
 - [G2](https://www.g2.com/) - Platform for discovering and comparing software products.
