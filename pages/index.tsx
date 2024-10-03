@@ -21,7 +21,6 @@ const categories = [
 export default function Home() {
     return (
         <div className="min-h-screen bg-gradient-to-b from-gray-100 to-white dark:from-gray-900 dark:to-gray-800">
-            {/* Hero Section */}
             <section className="bg-blue-600 text-white py-20">
                 <div className="container mx-auto px-4 text-center">
                     <h1 className="text-4xl md:text-5xl font-bold mb-4">Awesome Developer Tools Marketing</h1>
@@ -32,7 +31,6 @@ export default function Home() {
                 </div>
             </section>
 
-            {/* Categories Section */}
             <section id="categories" className="py-16">
                 <div className="container mx-auto px-4">
                     <h2 className="text-3xl font-bold mb-8 text-center">Marketing Categories</h2>
