@@ -20,36 +20,78 @@ const categories = [
 
 export default function Home() {
     return (
-        <div className="min-h-screen bg-gradient-to-b from-gray-100 to-white dark:from-gray-900 dark:to-gray-800">
-            <section className="bg-blue-600 text-white py-20">
-                <div className="container mx-auto px-4 text-center">
-                    <h1 className="text-4xl md:text-5xl font-bold mb-4">Awesome Developer Tools Marketing</h1>
-                    <p className="text-xl mb-8">A curated list of awesome resources for marketing developer tools</p>
-                    <Button size="lg">
-                        <a href="#categories">Explore Categories</a>
-                    </Button>
-                </div>
-            </section>
+        <div className="min-h-screen bg-gray-900">
+            <header className="bg-gray-900 border-b border-gray-800">
+                <div className="px-4 mx-auto sm:px-6 lg:px-8 xl:px-12">
+                    <div className="flex items-center justify-between h-16 lg:h-[72px]">
+                        <div className="flex items-center flex-shrink-0">
+                            <Link href="/" className="inline-flex">
+                                <span className="sr-only">Awesome Developer Tools Marketing</span>
+                                <img className="w-auto h-8" src="/logo.svg" alt="Logo" />
+                            </Link>
+                        </div>
 
-            <section id="categories" className="py-16">
-                <div className="container mx-auto px-4">
-                    <h2 className="text-3xl font-bold mb-8 text-center">Marketing Categories</h2>
+                        <nav className="hidden lg:flex lg:space-x-8">
+                            {categories.slice(0, 4).map((category) => (
+                                <Link
+                                    key={category.slug}
+                                    href={`/category/${category.slug}`}
+                                    className="text-base font-medium text-gray-400 hover:text-white transition-colors duration-200"
+                                >
+                                    {category.title}
+                                </Link>
+                            ))}
+                        </nav>
+
+                        <div className="flex items-center">
+                            <Button variant="outline" className="hidden lg:inline-flex">
+                                Contribute
+                            </Button>
+                        </div>
+                    </div>
+                </div>
+            </header>
+
+            <main>
+                <div className="relative py-12 bg-gray-900 sm:py-16 lg:py-20 xl:pt-32 xl:pb-44">
+                    <div className="relative px-4 mx-auto sm:px-6 lg:px-8 max-w-7xl">
+                        <div className="max-w-xl mx-auto text-center lg:text-left lg:mx-0">
+                            <h1 className="text-3xl font-bold text-white sm:text-4xl xl:text-5xl xl:leading-tight">
+                                Awesome Developer Tools Marketing
+                            </h1>
+                            <p className="mt-8 text-base font-normal leading-7 text-gray-400">
+                                A curated list of awesome resources for marketing developer tools. Find strategies, tools, and insights to effectively reach and engage with developers.
+                            </p>
+
+                            <div className="flex items-center justify-center mt-8 space-x-5 lg:justify-start">
+                                <Button size="lg">
+                                    Explore Resources
+                                </Button>
+                                <Button variant="outline" size="lg">
+                                    Contribute
+                                </Button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div className="px-4 mx-auto sm:px-6 lg:px-8 max-w-7xl -mt-12 relative z-10">
                     <div className="grid gap-6 md:grid-cols-2 lg:grid-cols-3">
                         {categories.map((category) => (
                             <Link href={`/category/${category.slug}`} key={category.slug}>
-                                <Card className="hover:shadow-lg transition-shadow cursor-pointer h-full">
+                                <Card className="hover:shadow-lg transition-shadow cursor-pointer bg-gray-800 text-white">
                                     <CardHeader>
                                         <CardTitle>{category.title}</CardTitle>
                                     </CardHeader>
                                     <CardContent>
-                                        <p className="text-sm text-gray-600 dark:text-gray-300">{category.description}</p>
+                                        <p className="text-sm text-gray-300">{category.description}</p>
                                     </CardContent>
                                 </Card>
                             </Link>
                         ))}
                     </div>
                 </div>
-            </section>
+            </main>
         </div>
     );
 }
