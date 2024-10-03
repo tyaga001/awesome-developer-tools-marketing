@@ -68,17 +68,15 @@ export default function Home() {
 
                         <div className="space-y-6">
                             {categories.slice(0, 2).map((category) => (
-                                <Card key={category.slug} className="bg-white shadow-lg hover:shadow-xl transition-shadow">
-                                    <CardHeader>
-                                        <CardTitle className="text-xl">{category.title}</CardTitle>
-                                    </CardHeader>
-                                    <CardContent>
-                                        <p className="text-gray-600 mb-4">{category.description}</p>
-                                        <Button variant="outline" asChild>
-                                            <Link href={`/category/${category.slug}`}>Explore</Link>
-                                        </Button>
-                                    </CardContent>
-                                </Card>
+                                <div key={category.slug}
+                                     className="bg-black backdrop-lg rounded-xl p-6 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1">
+                                    <h3 className="text-white font-semibold mb-2">{category.title}</h3>
+                                    <p className="text-white/80 mb-4">{category.description}</p>
+                                    <button
+                                        className="px-4 py-2 bg-white text-purple-600 rounded-lg font-medium hover:bg-opacity-90 transition-colors">
+                                        Explore
+                                    </button>
+                                </div>
                             ))}
                         </div>
                     </div>
