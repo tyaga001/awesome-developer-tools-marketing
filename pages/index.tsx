@@ -64,23 +64,12 @@ export default function Home() {
                                 transition-all duration-300
                                 hover:shadow-lg
                                 hover:scale-105
+                                hover:bg-gradient-to-r hover:from-yellow-400 hover:to-yellow-600
+                                hover:text-black
                                 focus:outline-none focus:ring-2 focus:ring-purple-400 focus:ring-opacity-50
-                                group
                             "
                         >
-                            <span className="relative z-10">Contribute</span>
-                            <span className="
-                                absolute inset-0 bg-gradient-to-r from-yellow-400 to-yellow-600
-                                opacity-0 group-hover:opacity-100
-                                transition-opacity duration-300
-                            "></span>
-                            <span className="
-                                absolute inset-0 flex items-center justify-center
-                                text-black font-bold opacity-0 group-hover:opacity-100
-                                transition-opacity duration-300
-                            ">
-                                Add Resource
-                            </span>
+                            Contribute
                         </button>
                     </nav>
                 </header>
