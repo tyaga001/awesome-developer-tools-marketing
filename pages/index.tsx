@@ -1,5 +1,6 @@
 import React from 'react';
 import Link from 'next/link';
+import { useRouter } from 'next/router';
 import { Input } from "@/components/ui/input";
 import { Button } from "@/components/ui/button";
 import { Card, CardHeader, CardTitle, CardContent } from "@/components/ui/card";
@@ -25,13 +26,19 @@ const categories = [
 ];
 
 export default function Home() {
+
+    const router = useRouter();
+    const handleContribute = () => {
+        router.push('https://github.com/tyaga001/awesome-developer-tools-marketing');
+    };
+
     return (
         <div className="min-h-screen bg-gradient-to-br from-purple-700 via-blue-600 to-indigo-800 text-white">
             <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
                 <header className="py-6">
                     <nav className="flex items-center justify-between">
                         <Link href="/" className="text-3xl font-bold tracking-wide text-white flex items-center">
-                            <Zap className="w-8 h-8 mr-2" />
+                            <Zap className="w-8 h-8 mr-2"/>
                             DevToolsMarketing
                         </Link>
                         <div className="hidden md:flex space-x-8">
@@ -46,13 +53,35 @@ export default function Home() {
                                 </Link>
                             ))}
                         </div>
-                        <Button
-                            variant="outline"
-                            className="relative border-2 border-transparent bg-gradient-to-r from-blue-500 to-purple-600 text-white font-semibold py-2 px-6 rounded-full shadow-lg transition-all duration-300 hover:from-yellow-400 hover:to-yellow-600 hover:text-black hover:shadow-xl"
+                        <button
+                            onClick={handleContribute}
+                            className="
+                                relative overflow-hidden
+                                bg-gradient-to-r from-blue-500 to-purple-600
+                                text-white font-semibold
+                                py-3 px-8 rounded-lg
+                                shadow-md
+                                transition-all duration-300
+                                hover:shadow-lg
+                                hover:scale-105
+                                focus:outline-none focus:ring-2 focus:ring-purple-400 focus:ring-opacity-50
+                                group
+                            "
                         >
-                            Contribute
-                        </Button>
-
+                            <span className="relative z-10">Contribute</span>
+                            <span className="
+                                absolute inset-0 bg-gradient-to-r from-yellow-400 to-yellow-600
+                                opacity-0 group-hover:opacity-100
+                                transition-opacity duration-300
+                            "></span>
+                            <span className="
+                                absolute inset-0 flex items-center justify-center
+                                text-black font-bold opacity-0 group-hover:opacity-100
+                                transition-opacity duration-300
+                            ">
+                                Add Resource
+                            </span>
+                        </button>
                     </nav>
                 </header>
 
@@ -63,10 +92,11 @@ export default function Home() {
                                 Awesome Developer Tools Marketing
                             </h1>
                             <p className="mt-4 text-xl text-white/90 sm:mt-6 max-w-xl">
-                                A curated list of awesome resources for marketing developer tools. Find strategies, tools, and insights to effectively reach and engage with developers.
+                                A curated list of awesome resources for marketing developer tools. Find strategies,
+                                tools, and insights to effectively reach and engage with developers.
                             </p>
 
-                            <form className="mt-8 sm:mt-10 flex max-w-md">
+                            {/*<form className="mt-8 sm:mt-10 flex max-w-md">
                                 <Input
                                     type="email"
                                     placeholder="Enter your email"
@@ -75,11 +105,11 @@ export default function Home() {
                                 <Button className="bg-gradient-to-r from-yellow-400 to-yellow-500 text-white hover:from-yellow-500 hover:to-yellow-600">
                                     Subscribe
                                 </Button>
-                            </form>
+                            </form>*/}
 
                             <div className="flex items-center mt-10 space-x-8">
                                 <div className="animate-pulse">
-                                    <p className="text-4xl font-medium text-white">2943</p>
+                                <p className="text-4xl font-medium text-white">100+</p>
                                     <p className="mt-1 text-sm text-white/70">Resources Curated</p>
                                 </div>
                                 <div className="animate-pulse">
@@ -161,19 +191,19 @@ export default function Home() {
                 <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
                     <div className="grid grid-cols-2 md:grid-cols-4 gap-8">
                         <div>
-                            <h3 className="text-lg font-semibold mb-4">About Us</h3>
+                            <h3 className="text-lg font-semibold mb-4">About Me</h3>
                             <ul className="space-y-2">
-                                <li><Link href="#" className="hover:text-yellow-300">Our Mission</Link></li>
-                                <li><Link href="#" className="hover:text-yellow-300">Team</Link></li>
-                                <li><Link href="#" className="hover:text-yellow-300">Careers</Link></li>
+                                <li><Link href="#" className="hover:text-yellow-300">My Mission</Link></li>
+                                <li><Link href="#" className="hover:text-yellow-300">Why</Link></li>
+                                <li><Link href="#" className="hover:text-yellow-300">Education</Link></li>
                             </ul>
                         </div>
                         <div>
                             <h3 className="text-lg font-semibold mb-4">Resources</h3>
                             <ul className="space-y-2">
-                                <li><Link href="#" className="hover:text-yellow-300">Blog</Link></li>
-                                <li><Link href="#" className="hover:text-yellow-300">Guides</Link></li>
-                                <li><Link href="#" className="hover:text-yellow-300">Case Studies</Link></li>
+                                <li><Link href="https://www.devtoolsacademy.com/" className="hover:text-yellow-300">Blog</Link></li>
+                                <li><Link href="https://theankurtyagi.com/" className="hover:text-yellow-300">Tutorials</Link></li>
+                                <li><Link href="https://bytesizedbets.com/" className="hover:text-yellow-300">Newsletter</Link></li>
                             </ul>
                         </div>
                         <div>
@@ -187,9 +217,9 @@ export default function Home() {
                         <div>
                             <h3 className="text-lg font-semibold mb-4">Connect</h3>
                             <ul className="space-y-2">
-                                <li><Link href="#" className="hover:text-yellow-300">Twitter</Link></li>
-                                <li><Link href="#" className="hover:text-yellow-300">LinkedIn</Link></li>
-                                <li><Link href="#" className="hover:text-yellow-300">GitHub</Link></li>
+                                <li><Link href="https://x.com/TheAnkurTyagi" className="hover:text-yellow-300">Twitter</Link></li>
+                                <li><Link href="https://www.linkedin.com/in/theankurtyagi/" className="hover:text-yellow-300">LinkedIn</Link></li>
+                                <li><Link href="https://github.com/tyaga001/awesome-developer-tools-marketing" className="hover:text-yellow-300">GitHub</Link></li>
                             </ul>
                         </div>
                     </div>
