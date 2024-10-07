@@ -12,7 +12,7 @@ function MyApp({ Component, pageProps }: AppProps) {
     return (
         <>
             <Head>
-                <title>Awesome Developer Tools Marketing</title>
+                <title>Awesome Developer Marketing</title>
                 <meta name="description" content="A curated list of awesome resources for marketing developer tools" />
                 <link rel="icon" href="/favicon.ico" />
             </Head>

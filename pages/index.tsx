@@ -82,7 +82,7 @@ export default function Home() {
                     <div className="grid lg:grid-cols-2 gap-12 lg:gap-8 items-start">
                         <div>
                             <h1 className="text-5xl font-extrabold text-white sm:text-6xl lg:text-7xl leading-tight">
-                                Awesome Developer Tools Marketing
+                                Awesome Developer Marketing
                             </h1>
                             <p className="mt-4 text-xl text-white/90 sm:mt-6 max-w-xl">
                                 A curated list of awesome resources for marketing developer tools. Find strategies,
