@@ -32,6 +32,10 @@ export default function Home() {
         router.push('https://github.com/tyaga001/awesome-developer-tools-marketing');
     };
 
+    const handleCategoryClick = (slug: string) => {
+        router.push(`/category/${slug}`);
+    };
+
     return (
         <div className="min-h-screen bg-gradient-to-br from-purple-700 via-blue-600 to-indigo-800 text-white">
             <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -98,7 +102,7 @@ export default function Home() {
 
                             <div className="flex items-center mt-10 space-x-8">
                                 <div className="animate-pulse">
-                                <p className="text-4xl font-medium text-white">100+</p>
+                                    <p className="text-4xl font-medium text-white">100+</p>
                                     <p className="mt-1 text-sm text-white/70">Resources Curated</p>
                                 </div>
                                 <div className="animate-pulse">
@@ -118,15 +122,18 @@ export default function Home() {
                                     <ScrollArea className="h-[400px] w-full rounded-md border border-white/20 p-4">
                                         {categories.slice(0, 6).map((category, index) => (
                                             <React.Fragment key={category.slug}>
-                                                <div className="flex items-center space-x-4 py-4">
+                                                <div
+                                                    className="flex items-center space-x-4 py-4 cursor-pointer hover:bg-white/5 rounded-md transition-colors"
+                                                    onClick={() => handleCategoryClick(category.slug)}
+                                                >
                                                     <div className="bg-white/10 p-3 rounded-full">{category.icon}</div>
                                                     <div>
                                                         <h3 className="text-lg font-semibold">{category.title}</h3>
                                                         <p className="text-sm text-white/70">{category.description}</p>
                                                     </div>
-                                                    <ChevronRight className="ml-auto flex-shrink-0 w-5 h-5" />
+                                                    <ChevronRight className="ml-auto flex-shrink-0 w-5 h-5"/>
                                                 </div>
-                                                {index < 5 && <Separator className="bg-white/20" />}
+                                                {index < 5 && <Separator className="bg-white/20"/>}
                                             </React.Fragment>
                                         ))}
                                     </ScrollArea>
@@ -135,15 +142,18 @@ export default function Home() {
                                     <ScrollArea className="h-[400px] w-full rounded-md border border-white/20 p-4">
                                         {categories.slice(6).map((category, index) => (
                                             <React.Fragment key={category.slug}>
-                                                <div className="flex items-center space-x-4 py-4">
+                                                <div
+                                                    className="flex items-center space-x-4 py-4 cursor-pointer hover:bg-white/5 rounded-md transition-colors"
+                                                    onClick={() => handleCategoryClick(category.slug)}
+                                                >
                                                     <div className="bg-white/10 p-3 rounded-full">{category.icon}</div>
                                                     <div>
                                                         <h3 className="text-lg font-semibold">{category.title}</h3>
                                                         <p className="text-sm text-white/70">{category.description}</p>
                                                     </div>
-                                                    <ChevronRight className="ml-auto flex-shrink-0 w-5 h-5" />
+                                                    <ChevronRight className="ml-auto flex-shrink-0 w-5 h-5"/>
                                                 </div>
-                                                {index < 5 && <Separator className="bg-white/20" />}
+                                                {index < 5 && <Separator className="bg-white/20"/>}
                                             </React.Fragment>
                                         ))}
                                     </ScrollArea>
@@ -157,7 +167,8 @@ export default function Home() {
                     <h2 className="text-3xl font-bold text-white mb-8">Explore All Categories</h2>
                     <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
                         {categories.map((category) => (
-                            <Card key={category.slug} className="bg-white/10 shadow hover:shadow-lg transition-shadow border-white/20">
+                            <Card key={category.slug}
+                                  className="bg-white/10 shadow hover:shadow-lg transition-shadow border-white/20">
                                 <CardHeader>
                                     <CardTitle className="flex items-center space-x-2">
                                         {category.icon}
@@ -166,8 +177,12 @@ export default function Home() {
                                 </CardHeader>
                                 <CardContent>
                                     <p className="text-white/80 mb-4">{category.description}</p>
-                                    <Button variant="secondary" asChild className="w-full">
-                                        <Link href={`/category/${category.slug}`}>Explore <ChevronRight className="ml-2 w-4 h-4" /></Link>
+                                    <Button
+                                        variant="secondary"
+                                        className="w-full"
+                                        onClick={() => handleCategoryClick(category.slug)}
+                                    >
+                                        Explore <ChevronRight className="ml-2 w-4 h-4"/>
                                     </Button>
                                 </CardContent>
                             </Card>
@@ -190,9 +205,12 @@ export default function Home() {
                         <div>
                             <h3 className="text-lg font-semibold mb-4">Resources</h3>
                             <ul className="space-y-2">
-                                <li><Link href="https://www.devtoolsacademy.com/" className="hover:text-yellow-300">Blog</Link></li>
-                                <li><Link href="https://theankurtyagi.com/" className="hover:text-yellow-300">Tutorials</Link></li>
-                                <li><Link href="https://bytesizedbets.com/" className="hover:text-yellow-300">Newsletter</Link></li>
+                                <li><Link href="https://www.devtoolsacademy.com/"
+                                          className="hover:text-yellow-300">Blog</Link></li>
+                                <li><Link href="https://theankurtyagi.com/"
+                                          className="hover:text-yellow-300">Tutorials</Link></li>
+                                <li><Link href="https://bytesizedbets.com/"
+                                          className="hover:text-yellow-300">Newsletter</Link></li>
                             </ul>
                         </div>
                         <div>
