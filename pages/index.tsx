@@ -46,9 +46,13 @@ export default function Home() {
                                 </Link>
                             ))}
                         </div>
-                        <Button variant="outline" className="border-gradient text-white hover:bg-gradient-to-r hover:from-yellow-400 hover:to-yellow-600">
+                        <Button
+                            variant="outline"
+                            className="relative border-2 border-transparent bg-gradient-to-r from-blue-500 to-purple-600 text-white font-semibold py-2 px-6 rounded-full shadow-lg transition-all duration-300 hover:from-yellow-400 hover:to-yellow-600 hover:text-black hover:shadow-xl"
+                        >
                             Contribute
                         </Button>
+
                     </nav>
                 </header>
 
