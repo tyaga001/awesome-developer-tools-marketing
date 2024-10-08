@@ -28,9 +28,14 @@ export const resourcesData: CategoryData[] = [
                 description: "A comprehensive guide by Matt Broberg covering various aspects of developer marketing."
             },
             {
-                title: "Content Marketing for Developers",
-                url: "https://www.stephaniemorillo.co/post/content-marketing-for-developers",
-                description: "A guide on content marketing strategies tailored for developers by Stephanie Morillo."
+                title: "Developer Marketing Guide",
+                url: "https://www.markepear.com/blog/developer-marketing-guide",
+                description: "A comprehensive guide on developer marketing strategies from the perspective of a dev tool startup CMO."
+            },
+            {
+                title: "On Developer Marketing",
+                url: "https://leerob.com/n/developer-marketing",
+                description: "A comprehensive guide on developer marketing strategies from Lee Robinson."
             }
         ]
     },
@@ -88,9 +93,9 @@ export const resourcesData: CategoryData[] = [
                 description: "Insights on using Twitter for developer tools marketing by Kuba."
             },
             {
-                title: "Developer Marketing on LinkedIn",
-                url: "https://devrelbook.substack.com/p/developer-marketing-on-linkedin",
-                description: "Strategies for marketing to developers on LinkedIn by DevRel Book."
+                title: "Twitter video ad from Kinde.",
+                url: "https://www.markepear.com/example/kinde-twitter-video-ad",
+                description: "\"Timer\" Twitter video ad from Kinde."
             }
         ]
     },
@@ -118,8 +123,8 @@ export const resourcesData: CategoryData[] = [
         resources: [
             {
                 title: "SEO for Developers",
-                url: "https://web.dev/learn/seo/",
-                description: "A comprehensive guide on SEO basics for developers by web.dev."
+                url: "https://developers.google.com/search/docs/fundamentals/seo-starter-guide",
+                description: "Google's official SEO starter guide for developers."
             },
             {
                 title: "Technical SEO for Developers",
