@@ -7,25 +7,26 @@ A curated list of awesome resources for marketing developer tools. This open-sou
 ## Table of Contents
 
 1. [Content Marketing](#content-marketing)
-2. [Social Media Marketing](#social-media-marketing)
-3. [Email Marketing](#email-marketing)
-4. [SEO for Developers](#seo-for-developers)
-5. [Community Building](#community-building)
-6. [Analytics and Metrics](#analytics-and-metrics)
-7. [Product Hunt Launch Strategies](#product-hunt-launch-strategies)
-8. [Developer Relations (DevRel)](#developer-relations-devrel)
-9. [Technical Writing](#technical-writing)
-10. [Public Speaking and Conferences](#public-speaking-and-conferences)
-11. [Open Source Marketing](#open-source-marketing)
-12. [Developer Surveys and Feedback](#developer-surveys-and-feedback)
-13. [API Documentation](#api-documentation)
-14. [Developer Advocacy](#developer-advocacy)
-15. [Influencer Marketing in Tech](#influencer-marketing-in-tech)
-16. [Podcast Marketing](#podcast-marketing)
-17. [Webinar and Workshop Strategies](#webinar-and-workshop-strategies)
-18. [Growth Hacking for Developer Tools](#growth-hacking-for-developer-tools)
-19. [Marketing Automation for Dev Tools](#marketing-automation-for-dev-tools)
-20. [Competitive Analysis in Dev Space](#competitive-analysis-in-dev-space)
+2. [Developer Marketing Insights](#developer-marketing-insights)
+3. [Social Media Marketing](#social-media-marketing)
+4. [Email Marketing](#email-marketing)
+5. [SEO for Developers](#seo-for-developers)
+6. [Community Building](#community-building)
+7. [Analytics and Metrics](#analytics-and-metrics)
+8. [Product Hunt Launch Strategies](#product-hunt-launch-strategies)
+9. [Developer Relations (DevRel)](#developer-relations-devrel)
+10. [Technical Writing](#technical-writing)
+11. [Public Speaking and Conferences](#public-speaking-and-conferences)
+12. [Open Source Marketing](#open-source-marketing)
+13. [Developer Surveys and Feedback](#developer-surveys-and-feedback)
+14. [API Documentation](#api-documentation)
+15. [Developer Advocacy](#developer-advocacy)
+16. [Influencer Marketing in Tech](#influencer-marketing-in-tech)
+17. [Podcast Marketing](#podcast-marketing)
+18. [Webinar and Workshop Strategies](#webinar-and-workshop-strategies)
+19. [Growth Hacking for Developer Tools](#growth-hacking-for-developer-tools)
+20. [Marketing Automation for Dev Tools](#marketing-automation-for-dev-tools)
+21. [Competitive Analysis in Dev Space](#competitive-analysis-in-dev-space)
 
 # Content Marketing
 
@@ -106,6 +107,21 @@ Key takeaways:
 - **[Medium](https://javascript.plainenglish.io/how-to-add-authentication-secure-harperdb-apis-using-supertokens-in-your-react-app-d3af60ae45bb)** - A popular platform for long-form content, with many tech-focused publications.
 - **[Free Code Camp](https://www.freecodecamp.org/news/author/theankurtyagi/)** - A platform for learning to code with articles and tutorials.
 - **[Hacker Noon](https://hackernoon.com/u/theankurtyagi)** - A platform for tech professionals to share their stories and insights.
+
+## Developer Marketing Insights
+
+This section provides comprehensive insights and strategies for marketing to developers from industry experts.
+
+## Articles
+
+- [Insights from 100 DevTools Founders](https://blog.scalingdevtools.com/i-interviewed-100-devtools-founders/) - Valuable insights gathered from interviews with 100 DevTools founders.
+- [Designing for Developers: Key Takeaways](https://janairis.medium.com/designing-for-developers-key-takeaways-from-a-founder-dinner-7e61d977886f) - Key takeaways on designing for developers from a founder dinner discussion.
+- [Selling the Value of Dev Tools in 2023](https://medium.com/boldstart-ventures/how-to-sell-the-value-of-dev-tools-in-2023-cd5d3826a358) - Strategies for effectively selling and marketing dev tools in the current landscape.
+- [The Ultimate Guide to Developer Marketing](https://creatoreconomy.so/p/lee-the-ultimate-guide-to-developer-marketing) - A comprehensive guide covering various aspects of developer marketing.
+- [Developer Marketing Strategies](https://www.datadab.com/blog/developer-marketing/) - Insights and strategies for effective developer marketing by DataDab.
+- [Dev Marketing for Startups](https://posthog.com/founders/dev-marketing-for-startups) - Guide on developer marketing strategies specifically tailored for startups by PostHog.
+- [Clerk's YouTube Partnership Strategy](https://playbooks.hypergrowthpartners.com/p/how-clerk-partners-with-youtubes) - Case study on how Clerk partners with YouTube creators for developer marketing.
+
 
 ## Social Media Marketing
 
