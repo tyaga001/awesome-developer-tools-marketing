@@ -35,6 +35,49 @@ export const resourcesData: CategoryData[] = [
         ]
     },
     {
+        title: 'Developer Marketing Insights',
+        slug: 'developer-marketing-insights',
+        description: 'Comprehensive insights and strategies for marketing to developers from industry experts.',
+        resources: [
+            {
+                title: "Insights from 100 DevTools Founders",
+                url: "https://blog.scalingdevtools.com/i-interviewed-100-devtools-founders/",
+                description: "Valuable insights gathered from interviews with 100 DevTools founders."
+            },
+            {
+                title: "Designing for Developers: Key Takeaways",
+                url: "https://janairis.medium.com/designing-for-developers-key-takeaways-from-a-founder-dinner-7e61d977886f",
+                description: "Key takeaways on designing for developers from a founder dinner discussion."
+            },
+            {
+                title: "Selling the Value of Dev Tools in 2023",
+                url: "https://medium.com/boldstart-ventures/how-to-sell-the-value-of-dev-tools-in-2023-cd5d3826a358",
+                description: "Strategies for effectively selling and marketing dev tools in the current landscape."
+            },
+            {
+                title: "The Ultimate Guide to Developer Marketing",
+                url: "https://creatoreconomy.so/p/lee-the-ultimate-guide-to-developer-marketing",
+                description: "A comprehensive guide covering various aspects of developer marketing."
+            },
+            {
+                title: "Developer Marketing Strategies",
+                url: "https://www.datadab.com/blog/developer-marketing/",
+                description: "Insights and strategies for effective developer marketing by DataDab."
+            },
+            {
+                title: "Dev Marketing for Startups",
+                url: "https://posthog.com/founders/dev-marketing-for-startups",
+                description: "Guide on developer marketing strategies specifically tailored for startups by PostHog."
+            },
+            {
+                title: "Clerk's YouTube Partnership Strategy",
+                url: "https://playbooks.hypergrowthpartners.com/p/how-clerk-partners-with-youtubes",
+                description: "Case study on how Clerk partners with YouTube creators for developer marketing."
+            }
+        ]
+    },
+
+    {
         title: 'Social Media Marketing',
         slug: 'social-media-marketing',
         description: 'Platforms and tools for reaching developers through social media.',
