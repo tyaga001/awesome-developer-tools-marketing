@@ -174,13 +174,28 @@ export const resourcesData: CategoryData[] = [
         resources: [
             {
                 title: "How to Launch on Product Hunt",
-                url: "https://www.producthunt.com/posts/how-to-launch-on-product-hunt-ebook",
-                description: "An ebook guide on successful Product Hunt launches."
+                url: "https://www.producthunt.com/launch",
+                description: "Official guide from Product Hunt on how to launch successfully."
             },
             {
-                title: "Product Hunt Launch Checklist",
-                url: "https://github.com/saasbase/product-hunt-launch-guide",
-                description: "A comprehensive checklist for launching on Product Hunt by SaaSBase."
+                title: "Lago's Product Hunt Launch Handbook",
+                url: "https://github.com/getlago/lago/wiki/Product-Hunt-launch-:-our-handbook",
+                description: "Lago's detailed handbook sharing their experiences and best practices for launching on Product Hunt."
+            },
+            {
+                title: "How We Missed #1 on Product Hunt but Still Won Big",
+                url: "https://dev.to/daytona/how-we-missed-1-on-product-hunt-but-still-won-big-1gigk",
+                description: "Daytona's story of missing the top spot on Product Hunt but gaining valuable insights and success."
+            },
+            {
+                title: "How we got our Dev Tool ‘Product of the Day’ in Product Hunt (And Survived)",
+                url: "https://www.permit.io/blog/producthunt-howto",
+                description: "A comprehensive guide by Permit.io on the best practices, tips, and strategies to successfully launch your product on Product Hunt."
+            },
+            {
+                title: "Launching developer tools on ProductHunt",
+                url: "https://ronakganatra.com/posts/successfully-launch-dev-tools-on-producthunt",
+                description: "Insights and strategies from Ronak on how to successfully launch developer tools on Product Hunt."
             }
         ]
     },
