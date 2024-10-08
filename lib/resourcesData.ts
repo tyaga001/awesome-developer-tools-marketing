@@ -184,7 +184,7 @@ export const resourcesData: CategoryData[] = [
             },
             {
                 title: "How We Missed #1 on Product Hunt but Still Won Big",
-                url: "https://dev.to/daytona/how-we-missed-1-on-product-hunt-but-still-won-big-1gigk",
+                url: "https://dev.to/daytona/how-we-missed-1-on-product-hunt-but-still-won-big-1gig",
                 description: "Daytona's story of missing the top spot on Product Hunt but gaining valuable insights and success."
             },
             {
