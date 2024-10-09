@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useState } from 'react';
 import Link from 'next/link';
 import { useRouter } from 'next/router';
 import { Button } from "@/components/ui/button";
@@ -6,7 +6,7 @@ import { Card, CardHeader, CardTitle, CardContent } from "@/components/ui/card";
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
 import { ScrollArea } from "@/components/ui/scroll-area";
 import { Separator } from "@/components/ui/separator";
-import { ChevronRight, Zap, Rocket, Users, Search, Mail, Code, BarChart2, Podcast } from 'lucide-react';
+import { ChevronRight, Zap, Rocket, Users, Search, Mail, Code, BarChart2, Podcast, Menu, X  } from 'lucide-react';
 
 const categories = [
     { title: 'Content Marketing', slug: 'content-marketing', description: 'Strategies and resources for effective content marketing in the developer space.', icon: <Code className="w-6 h-6" /> },
@@ -26,55 +26,79 @@ const categories = [
 export default function Home() {
 
     const router = useRouter();
+    const [isMenuOpen, setIsMenuOpen] = useState(false);
     const handleContribute = () => {
         router.push('https://github.com/tyaga001/awesome-developer-tools-marketing');
     };
 
     const handleCategoryClick = (slug: string) => {
         router.push(`/category/${slug}`);
+        setIsMenuOpen(false);
     };
 
     return (
         <div className="min-h-screen bg-gradient-to-br from-purple-700 via-blue-600 to-indigo-800 text-white">
             <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
                 <header className="py-4 sm:py-6">
-                    <nav className="flex flex-col sm:flex-row items-center justify-between space-y-4 sm:space-y-0">
+                    <nav className="flex items-center justify-between">
                         <Link href="/"
                               className="text-2xl sm:text-3xl font-bold tracking-wide text-white flex items-center">
                             <Zap className="w-6 h-6 sm:w-8 sm:h-8 mr-2"/>
                             DevToolsMarketing
                         </Link>
-                        <div className="flex flex-wrap justify-center space-x-4 sm:space-x-8">
+
+                        {/* Desktop Navigation */}
+                        <div className="hidden md:flex space-x-8">
                             {categories.slice(0, 3).map((category) => (
                                 <Link
                                     key={category.slug}
                                     href={`/category/${category.slug}`}
-                                    className="text-sm sm:text-base font-medium text-white hover:text-yellow-300 transition-colors flex items-center"
+                                    className="text-base font-medium text-white hover:text-yellow-300 transition-colors flex items-center"
                                 >
                                     {category.icon}
-                                    <span className="ml-1 sm:ml-2">{category.title}</span>
+                                    <span className="ml-2">{category.title}</span>
                                 </Link>
                             ))}
+                            <button
+                                onClick={handleContribute}
+                                className="bg-gradient-to-r from-blue-500 to-purple-600 text-white font-semibold py-2 px-4 rounded-lg shadow-md transition-all duration-300 hover:shadow-lg hover:scale-105"
+                            >
+                                Contribute
+                            </button>
                         </div>
+
+                        {/* Mobile Hamburger Button */}
                         <button
-                            onClick={handleContribute}
-                            className="
-                                relative overflow-hidden
-                                bg-gradient-to-r from-blue-500 to-purple-600
-                                text-white font-semibold
-                                py-2 px-4 sm:py-3 sm:px-8 rounded-lg
-                                shadow-md
-                                transition-all duration-300
-                                hover:shadow-lg
-                                hover:scale-105
-                                hover:bg-gradient-to-r hover:from-yellow-400 hover:to-yellow-600
-                                hover:text-black
-                                focus:outline-none focus:ring-2 focus:ring-purple-400 focus:ring-opacity-50
-                            "
+                            className="md:hidden text-white"
+                            onClick={() => setIsMenuOpen(!isMenuOpen)}
                         >
-                            Contribute
+                            {isMenuOpen ? <X size={24}/> : <Menu size={24}/>}
                         </button>
                     </nav>
+
+                    {/* Mobile Menu */}
+                    {isMenuOpen && (
+                        <div className="md:hidden mt-4 bg-white/10 rounded-lg p-4">
+                            {categories.map((category) => (
+                                <div
+                                    key={category.slug}
+                                    className="py-2 cursor-pointer hover:bg-white/5 rounded-md transition-colors"
+                                    onClick={() => handleCategoryClick(category.slug)}
+                                >
+                                    <span className="flex items-center text-white hover:text-yellow-300">
+                                        {category.icon}
+                                        <span className="ml-2">{category.title}</span>
+                                    </span>
+                                </div>
+                            ))}
+                            <button
+                                onClick={handleContribute}
+                                className="w-full mt-4 bg-gradient-to-r from-blue-500 to-purple-600 text-white font-semibold py-2 px-4 rounded-lg shadow-md transition-all duration-300 hover:shadow-lg hover:scale-105"
+                            >
+                                Contribute
+                            </button>
+                        </div>
+                    )}
                 </header>
 
                 <main className="py-8 sm:py-16 lg:py-24">
@@ -185,7 +209,7 @@ export default function Home() {
             <footer className="bg-gray-900 mt-8 sm:mt-16 text-white">
                 <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8 sm:py-12">
                     <div className="grid grid-cols-2 sm:grid-cols-4 gap-6 sm:gap-8">
-                    <div>
+                        <div>
                             <h3 className="text-lg font-semibold mb-4">About Me</h3>
                             <ul className="space-y-2">
                                 <li><Link href="#" className="hover:text-yellow-300">My Mission</Link></li>
@@ -215,9 +239,12 @@ export default function Home() {
                         <div>
                             <h3 className="text-lg font-semibold mb-4">Connect</h3>
                             <ul className="space-y-2">
-                                <li><Link href="https://x.com/TheAnkurTyagi" className="hover:text-yellow-300">Twitter</Link></li>
-                                <li><Link href="https://www.linkedin.com/in/theankurtyagi/" className="hover:text-yellow-300">LinkedIn</Link></li>
-                                <li><Link href="https://github.com/tyaga001/awesome-developer-tools-marketing" className="hover:text-yellow-300">GitHub</Link></li>
+                                <li><Link href="https://x.com/TheAnkurTyagi"
+                                          className="hover:text-yellow-300">Twitter</Link></li>
+                                <li><Link href="https://www.linkedin.com/in/theankurtyagi/"
+                                          className="hover:text-yellow-300">LinkedIn</Link></li>
+                                <li><Link href="https://github.com/tyaga001/awesome-developer-tools-marketing"
+                                          className="hover:text-yellow-300">GitHub</Link></li>
                             </ul>
                         </div>
                     </div>
