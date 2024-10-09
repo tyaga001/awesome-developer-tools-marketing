@@ -1,10 +1,8 @@
 import React from 'react';
 import Link from 'next/link';
 import { useRouter } from 'next/router';
-import { Input } from "@/components/ui/input";
 import { Button } from "@/components/ui/button";
 import { Card, CardHeader, CardTitle, CardContent } from "@/components/ui/card";
-import { Badge } from "@/components/ui/badge";
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
 import { ScrollArea } from "@/components/ui/scroll-area";
 import { Separator } from "@/components/ui/separator";
@@ -39,21 +37,22 @@ export default function Home() {
     return (
         <div className="min-h-screen bg-gradient-to-br from-purple-700 via-blue-600 to-indigo-800 text-white">
             <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-                <header className="py-6">
-                    <nav className="flex items-center justify-between">
-                        <Link href="/" className="text-3xl font-bold tracking-wide text-white flex items-center">
-                            <Zap className="w-8 h-8 mr-2"/>
+                <header className="py-4 sm:py-6">
+                    <nav className="flex flex-col sm:flex-row items-center justify-between space-y-4 sm:space-y-0">
+                        <Link href="/"
+                              className="text-2xl sm:text-3xl font-bold tracking-wide text-white flex items-center">
+                            <Zap className="w-6 h-6 sm:w-8 sm:h-8 mr-2"/>
                             DevToolsMarketing
                         </Link>
-                        <div className="hidden md:flex space-x-8">
+                        <div className="flex flex-wrap justify-center space-x-4 sm:space-x-8">
                             {categories.slice(0, 3).map((category) => (
                                 <Link
                                     key={category.slug}
                                     href={`/category/${category.slug}`}
-                                    className="text-base font-medium text-white hover:text-yellow-300 transition-colors flex items-center"
+                                    className="text-sm sm:text-base font-medium text-white hover:text-yellow-300 transition-colors flex items-center"
                                 >
                                     {category.icon}
-                                    <span className="ml-2">{category.title}</span>
+                                    <span className="ml-1 sm:ml-2">{category.title}</span>
                                 </Link>
                             ))}
                         </div>
@@ -63,7 +62,7 @@ export default function Home() {
                                 relative overflow-hidden
                                 bg-gradient-to-r from-blue-500 to-purple-600
                                 text-white font-semibold
-                                py-3 px-8 rounded-lg
+                                py-2 px-4 sm:py-3 sm:px-8 rounded-lg
                                 shadow-md
                                 transition-all duration-300
                                 hover:shadow-lg
@@ -78,39 +77,29 @@ export default function Home() {
                     </nav>
                 </header>
 
-                <main className="py-16 lg:py-24">
-                    <div className="grid lg:grid-cols-2 gap-12 lg:gap-8 items-start">
+                <main className="py-8 sm:py-16 lg:py-24">
+                    <div className="grid lg:grid-cols-2 gap-8 lg:gap-12 items-start">
                         <div>
-                            <h1 className="text-5xl font-extrabold text-white sm:text-6xl lg:text-7xl leading-tight">
+                            <h1 className="text-3xl sm:text-5xl font-extrabold text-white sm:text-6xl lg:text-7xl leading-tight">
                                 Awesome Developer Marketing
                             </h1>
-                            <p className="mt-4 text-xl text-white/90 sm:mt-6 max-w-xl">
+                            <p className="mt-4 text-lg sm:text-xl text-white/90 sm:mt-6 max-w-xl">
                                 A curated list of awesome resources for marketing developer tools. Find strategies,
                                 tools, and insights to effectively reach and engage with developers.
                             </p>
 
-                            {/*<form className="mt-8 sm:mt-10 flex max-w-md">
-                                <Input
-                                    type="email"
-                                    placeholder="Enter your email"
-                                    className="flex-grow mr-2 bg-white/10 text-white placeholder-white/50 border-white/20"
-                                />
-                                <Button className="bg-gradient-to-r from-yellow-400 to-yellow-500 text-white hover:from-yellow-500 hover:to-yellow-600">
-                                    Subscribe
-                                </Button>
-                            </form>*/}
-
-                            <div className="flex items-center mt-10 space-x-8">
+                            <div className="flex items-center mt-8 sm:mt-10 space-x-8">
                                 <div className="animate-pulse">
-                                    <p className="text-4xl font-medium text-white">100+</p>
-                                    <p className="mt-1 text-sm text-white/70">Resources Curated</p>
+                                    <p className="text-3xl sm:text-4xl font-medium text-white">100+</p>
+                                    <p className="mt-1 text-xs sm:text-sm text-white/70">Resources Curated</p>
                                 </div>
                                 <div className="animate-pulse">
-                                    <p className="text-4xl font-medium text-white">500+</p>
-                                    <p className="mt-1 text-sm text-white/70">Daily Visitors</p>
+                                    <p className="text-3xl sm:text-4xl font-medium text-white">500+</p>
+                                    <p className="mt-1 text-xs sm:text-sm text-white/70">Daily Visitors</p>
                                 </div>
                             </div>
                         </div>
+
 
                         <div className="space-y-6">
                             <Tabs defaultValue="featured" className="w-full">
@@ -119,7 +108,8 @@ export default function Home() {
                                     <TabsTrigger value="trending" className="text-white">Trending</TabsTrigger>
                                 </TabsList>
                                 <TabsContent value="featured">
-                                    <ScrollArea className="h-[400px] w-full rounded-md border border-white/20 p-4">
+                                    <ScrollArea
+                                        className="h-[300px] sm:h-[400px] w-full rounded-md border border-white/20 p-4">
                                         {categories.slice(0, 6).map((category, index) => (
                                             <React.Fragment key={category.slug}>
                                                 <div
@@ -139,7 +129,8 @@ export default function Home() {
                                     </ScrollArea>
                                 </TabsContent>
                                 <TabsContent value="trending">
-                                    <ScrollArea className="h-[400px] w-full rounded-md border border-white/20 p-4">
+                                    <ScrollArea
+                                        className="h-[300px] sm:h-[400px] w-full rounded-md border border-white/20 p-4">
                                         {categories.slice(6).map((category, index) => (
                                             <React.Fragment key={category.slug}>
                                                 <div
@@ -163,20 +154,20 @@ export default function Home() {
                     </div>
                 </main>
 
-                <section className="py-16">
-                    <h2 className="text-3xl font-bold text-white mb-8">Explore All Categories</h2>
-                    <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
+                <section className="py-8 sm:py-16">
+                    <h2 className="text-2xl sm:text-3xl font-bold text-white mb-6 sm:mb-8">Explore All Categories</h2>
+                    <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-6 sm:gap-8">
                         {categories.map((category) => (
                             <Card key={category.slug}
                                   className="bg-white/10 shadow hover:shadow-lg transition-shadow border-white/20">
                                 <CardHeader>
-                                    <CardTitle className="flex items-center space-x-2">
+                                    <CardTitle className="flex items-center space-x-2 text-lg sm:text-xl">
                                         {category.icon}
                                         <span>{category.title}</span>
                                     </CardTitle>
                                 </CardHeader>
                                 <CardContent>
-                                    <p className="text-white/80 mb-4">{category.description}</p>
+                                    <p className="text-white/80 mb-4 text-sm sm:text-base">{category.description}</p>
                                     <Button
                                         variant="secondary"
                                         className="w-full"
@@ -191,10 +182,10 @@ export default function Home() {
                 </section>
             </div>
 
-            <footer className="bg-gray-900 mt-16 text-white">
-                <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
-                    <div className="grid grid-cols-2 md:grid-cols-4 gap-8">
-                        <div>
+            <footer className="bg-gray-900 mt-8 sm:mt-16 text-white">
+                <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8 sm:py-12">
+                    <div className="grid grid-cols-2 sm:grid-cols-4 gap-6 sm:gap-8">
+                    <div>
                             <h3 className="text-lg font-semibold mb-4">About Me</h3>
                             <ul className="space-y-2">
                                 <li><Link href="#" className="hover:text-yellow-300">My Mission</Link></li>
@@ -231,7 +222,8 @@ export default function Home() {
                         </div>
                     </div>
                     <div className="mt-8 pt-8 border-t border-gray-700 text-center">
-                        <p className="text-gray-400">&copy; {new Date().getFullYear()} Awesome Developer Tools Marketing. All rights reserved.</p>
+                        <p className="text-gray-400 text-sm">&copy; {new Date().getFullYear()} Awesome Developer Tools
+                            Marketing. All rights reserved.</p>
                     </div>
                 </div>
             </footer>
