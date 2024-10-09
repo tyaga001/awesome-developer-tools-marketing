@@ -106,13 +106,13 @@ export const resourcesData: CategoryData[] = [
         resources: [
             {
                 title: "Email Marketing for Developers",
-                url: "https://www.stephaniemorillo.co/post/email-marketing-for-developers",
-                description: "A guide on effective email marketing strategies for reaching developers by Stephanie Morillo."
+                url: "https://ronakganatra.com/posts/email-marketing-to-developers/",
+                description: "A guide on effective email marketing strategies for reaching developers by Ronak."
             },
             {
-                title: "How to Write a Developer Newsletter",
-                url: "https://draft.dev/learn/writing-developer-newsletter",
-                description: "Tips on creating engaging newsletters for developers by Draft.dev."
+                title: "Developer Newsletters",
+                url: "https://github.com/jackbridger/developer-newsletters",
+                description: "A list of 140 developer newsletters + how to sponsor them by Jack."
             }
         ]
     },
@@ -123,8 +123,8 @@ export const resourcesData: CategoryData[] = [
         resources: [
             {
                 title: "SEO for Developers",
-                url: "https://developers.google.com/search/docs/fundamentals/seo-starter-guide",
-                description: "Google's official SEO starter guide for developers."
+                url: "https://medium.com/welldone-software/seo-for-developers-a-quick-overview-5b5b7ce34679",
+                description: "All you need to know about your role as a developer to improve your website’s position in Google search results."
             },
             {
                 title: "Technical SEO for Developers",
@@ -144,9 +144,9 @@ export const resourcesData: CategoryData[] = [
                 description: "A book by Mary Thengvall on building and maintaining developer communities."
             },
             {
-                title: "Developer Community Building Guide",
-                url: "https://orbit.love/blog/developer-community-building-guide",
-                description: "A comprehensive guide on building developer communities by Orbit."
+                title: "Building High Impact Developer Communities",
+                url: "https://nader.substack.com/p/building-high-impact-developer-communities",
+                description: "A comprehensive guide on building developer communities by Nader."
             }
         ]
     },
@@ -156,14 +156,14 @@ export const resourcesData: CategoryData[] = [
         description: 'Tools and practices for measuring developer engagement and product success.',
         resources: [
             {
-                title: "Developer Marketing KPIs",
-                url: "https://www.heavybit.com/library/article/developer-marketing-kpis/",
-                description: "An article on key performance indicators for developer marketing by Heavybit."
+                title: "Developer Marketing Metrics",
+                url: "https://www.markepear.com/blog/developer-marketing-metrics",
+                description: "An article on key performance indicators for developer marketing by Jakub."
             },
             {
                 title: "Measuring Developer Relations",
-                url: "https://www.marythengvall.com/blog/2019/12/14/measuring-developer-relations-a-framework-for-2020",
-                description: "A framework for measuring developer relations success by Mary Thengvall."
+                url: "https://www.swyx.io/measuring-devrel",
+                description: "A framework for measuring developer relations success by Swyx."
             }
         ]
     },
@@ -228,7 +228,7 @@ export const resourcesData: CategoryData[] = [
             },
             {
                 title: "Technical Writing for Developers",
-                url: "https://www.freecodecamp.org/news/developers-guide-to-technical-writing/",
+                url: "https://www.freecodecamp.org/news/technical-writing-for-developers/",
                 description: "A guide to technical writing for developers by freeCodeCamp."
             }
         ]
