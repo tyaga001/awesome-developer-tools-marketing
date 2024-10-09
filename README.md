@@ -1,6 +1,10 @@
 # Awesome Developer Tools Marketing
 
-A curated list of awesome resources for marketing developer tools. This open-source repository aims to be a one-stop solution for founders and the developer community to leverage for their marketing efforts.
+>A curated list of awesome resources for marketing developer tools. 
+This open-source repository aims to be a one-stop solution for founders and the developer community to leverage for their marketing efforts.
+
+Visit our website: [https://www.marketingdevtool.com/](https://www.marketingdevtool.com/)
+
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
