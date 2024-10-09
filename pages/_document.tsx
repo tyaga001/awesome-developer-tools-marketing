@@ -11,8 +11,8 @@ class MyDocument extends Document<DocumentProps> {
         return (
             <Html lang="en">
                 <Head>
-                    <meta name="description" content="A curated list of awesome resources for marketing developer tools" />
                     <link rel="icon" href="/favicon.ico" />
+                    <meta name="description" content="A curated list of awesome resources for marketing developer tools" />
                     <script
                         defer
                         src="https://cloud.umami.is/script.js"
