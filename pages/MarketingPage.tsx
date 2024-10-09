@@ -2,20 +2,25 @@ import React from 'react'
 import { NextPage } from 'next'
 import { Card, CardHeader, CardTitle, CardContent } from '@/components/ui/card'
 
-const CommunityBuilding: NextPage = () => {
+interface MarketingPageProps {
+    title: string
+    description: string
+}
+
+const MarketingPage: NextPage<MarketingPageProps> = ({ title, description }) => {
     return (
         <div className="container mx-auto py-8">
-            <h1 className="text-3xl font-bold mb-6">Community Building</h1>
+            <h1 className="text-3xl font-bold mb-6">{title}</h1>
             <Card>
                 <CardHeader>
-                    <CardTitle>Building a Strong Developer Community</CardTitle>
+                    <CardTitle>{title}</CardTitle>
                 </CardHeader>
                 <CardContent>
-                    <p>This page will contain strategies and content related to building and nurturing a developer community.</p>
+                    <p>{description}</p>
                 </CardContent>
             </Card>
         </div>
     )
 }
 
-export default CommunityBuilding
+export default MarketingPage
