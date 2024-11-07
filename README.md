@@ -251,6 +251,17 @@ Learn about [How to Launch a Dev Tool on Hacker News](https://www.markepear.com/
 - [A Startup's Guide to Technical Content Creation](https://theankurtyagi.com/a-startups-guide-to-technical-content-creation/) - Explains how technical content creation helps SaaS companies grow, attract investors, and influence industry narratives.
 - [How Technical Writing Can Supercharge Your Startup](https://theankurtyagi.com/how-technical-writing-can-supercharge-your-startup/) - Explores how technical writing can enhance a startup's communication and content strategy.
 
+## DevTools Academy
+
+start reading articles on the latest in developer tools, databases, and SaaS at [DevTools Academy](https://www.devtoolsacademy.com/).
+
+### Blog Posts
+- [Neon vs. Supabase](https://www.devtoolsacademy.com/blog/neon-vs-supabase)
+- [MongoDB vs PostgreSQL](https://www.devtoolsacademy.com/blog/mongoDB-vs-postgreSQL)
+- [State of Databases 2024](https://www.devtoolsacademy.com/blog/state-of-databases-2024)
+- [Supabase vs Clerk](https://www.devtoolsacademy.com/blog/supabase-vs-clerk)
+
+
 ### Courses
 - [Technical Writing Courses](https://developers.google.com/tech-writing) - Free technical writing courses offered by Google.
 - [Udemy Technical Writing Courses](https://www.udemy.com/topic/technical-writing/) - Various courses on technical writing available on Udemy.
