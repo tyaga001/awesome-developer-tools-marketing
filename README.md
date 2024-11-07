@@ -222,6 +222,11 @@ This section provides comprehensive insights and strategies for marketing to dev
 ### Tools
 - [hunted.space](https://hunted.space) - Insights on Product Hunt launches.
 
+## Hacker News Launch Strategies
+
+Learn about [How to Launch a Dev Tool on Hacker News](https://www.markepear.com/blog/dev-tool-hacker-news-launch) from **Jakub Czakon**. This post provides valuable insights for dev tool founders and marketers looking to make an impact on Hacker News and engage with the developer community effectively.
+
+
 ## Developer Relations (DevRel)
 
 ### Books
