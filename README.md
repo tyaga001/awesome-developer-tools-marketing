@@ -217,6 +217,7 @@ This section provides comprehensive insights and strategies for marketing to dev
 
 ### Case Studies
 - [How Notion Launched on Product Hunt](https://www.productschool.com/blog/product-management-2/how-notion-launched-on-product-hunt/) - Analysis of Notion's successful Product Hunt launch strategy.
+- [How Theneo 3.0 Became Product Hunt's #1 Developer Tool](https://www.theneo.io/blog/overcoming-launch-hurdles-how-theneo-3-0-became-product-hunts-1-developer-tool) - Learn how Theneo 3.0 climbed to the top of Product Hunt’s developer tools category.
 
 ### Tools
 - [hunted.space](https://hunted.space) - Insights on Product Hunt launches.
