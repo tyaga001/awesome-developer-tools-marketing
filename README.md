@@ -366,10 +366,14 @@ This section provides comprehensive insights and strategies for marketing to dev
 
 ## Competitive Analysis in Dev Space
 
+### ArticlesHere's the updated list with all the articles:
+
 ### Articles
 - [How to Do Competitive Analysis for Developer Tools](https://www.heavybit.com/library/article/how-to-do-competitive-analysis-for-developer-tools) - Heavybit's guide on analyzing competitors in the developer tools market.
 - [Competitive Intelligence for Developer-Focused Products](https://www.productboard.com/blog/competitive-intelligence-for-developer-focused-products/) - ProductBoard's insights on gathering competitive intelligence.
-- [Neon vs. Supabase](https://www.devtoolsacademy.com/blog/neon-vs-supabase) - A detailed comparison of Neon and Supabase, exploring their features, strengths, and weaknesses to help developers choose the right tool for their needs.
+- [Neon vs. Supabase](https://www.devtoolsacademy.com/blog/neon-vs-supabase) - A detailed comparison of Neon and Supabase, exploring their features, strengths, and weaknesses.
+- [Supabase vs Clerk](https://www.devtoolsacademy.com/blog/supabase-vs-clerk) - A comparison of authentication and user management capabilities between Supabase and Clerk.
+- [MongoDB vs PostgreSQL](https://www.devtoolsacademy.com/blog/mongoDB-vs-postgreSQL) - An analysis comparing MongoDB's document-based approach with PostgreSQL's relational database system.
 
 ### Tools
 - [G2](https://www.g2.com/) - Platform for discovering and comparing software products.
