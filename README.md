@@ -217,9 +217,15 @@ This section provides comprehensive insights and strategies for marketing to dev
 
 ### Case Studies
 - [How Notion Launched on Product Hunt](https://www.productschool.com/blog/product-management-2/how-notion-launched-on-product-hunt/) - Analysis of Notion's successful Product Hunt launch strategy.
+- [How Theneo 3.0 Became Product Hunt's #1 Developer Tool](https://www.theneo.io/blog/overcoming-launch-hurdles-how-theneo-3-0-became-product-hunts-1-developer-tool) - Learn how Theneo 3.0 climbed to the top of Product Hunt’s developer tools category.
 
 ### Tools
 - [hunted.space](https://hunted.space) - Insights on Product Hunt launches.
+
+## Hacker News Launch Strategies
+
+Learn about [How to Launch a Dev Tool on Hacker News](https://www.markepear.com/blog/dev-tool-hacker-news-launch) from **Jakub Czakon**. This post provides valuable insights for dev tool founders and marketers looking to make an impact on Hacker News and engage with the developer community effectively.
+
 
 ## Developer Relations (DevRel)
 
@@ -244,6 +250,17 @@ This section provides comprehensive insights and strategies for marketing to dev
 - [The Role of a Technical Writer in a Startup](https://theankurtyagi.com/technical-writer/) - Insighs on the role of technical writers in making complex concepts understandable and bridging gaps between developers and users.
 - [A Startup's Guide to Technical Content Creation](https://theankurtyagi.com/a-startups-guide-to-technical-content-creation/) - Explains how technical content creation helps SaaS companies grow, attract investors, and influence industry narratives.
 - [How Technical Writing Can Supercharge Your Startup](https://theankurtyagi.com/how-technical-writing-can-supercharge-your-startup/) - Explores how technical writing can enhance a startup's communication and content strategy.
+
+## DevTools Academy
+
+start reading articles on the latest in developer tools, databases, and SaaS at [DevTools Academy](https://www.devtoolsacademy.com/).
+
+### Blog Posts
+- [Neon vs. Supabase](https://www.devtoolsacademy.com/blog/neon-vs-supabase)
+- [MongoDB vs PostgreSQL](https://www.devtoolsacademy.com/blog/mongoDB-vs-postgreSQL)
+- [State of Databases 2024](https://www.devtoolsacademy.com/blog/state-of-databases-2024)
+- [Supabase vs Clerk](https://www.devtoolsacademy.com/blog/supabase-vs-clerk)
+
 
 ### Courses
 - [Technical Writing Courses](https://developers.google.com/tech-writing) - Free technical writing courses offered by Google.

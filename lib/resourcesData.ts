@@ -36,9 +36,30 @@ export const resourcesData: CategoryData[] = [
                 title: "On Developer Marketing",
                 url: "https://leerob.com/n/developer-marketing",
                 description: "A comprehensive guide on developer marketing strategies from Lee Robinson."
+            },
+            {
+                title: "Developer Marketing Does Not Exist (Book)",
+                url: "https://www.amazon.com/Developer-Marketing-Does-Not-Exist-ebook/dp/B091NK954H/",
+                description: "A book exploring the concept that traditional marketing doesn't apply to developers."
+            },
+            {
+                title: "Marketing to Developers: B2D",
+                url: "https://opensenselabs.com/blog/marketing-developers-b2d",
+                description: "Insights on business-to-developer (B2D) marketing strategies."
+            },
+            {
+                title: "Marketing to Developers",
+                url: "https://helenmin.com/blog/marketing-to-developers",
+                description: "A blog post by Helen Min on effective strategies for marketing to developers."
+            },
+            {
+                title: "B2D Go-To-Market",
+                url: "https://tomtunguz.com/b2d-go-to-market/",
+                description: "Insights on go-to-market strategies for developer-focused products."
             }
         ]
     },
+    
     {
         title: 'Developer Marketing Insights',
         slug: 'developer-marketing-insights',
@@ -78,10 +99,20 @@ export const resourcesData: CategoryData[] = [
                 title: "Clerk's YouTube Partnership Strategy",
                 url: "https://playbooks.hypergrowthpartners.com/p/how-clerk-partners-with-youtubes",
                 description: "Case study on how Clerk partners with YouTube creators for developer marketing."
+            },
+            {
+                title: "The Importance of Using Experts in Developer Marketing",
+                url: "https://techcrunch.com/2021/07/29/draft-dev-ceo-karl-hughes-on-the-importance-of-using-experts-in-developer-marketing/",
+                description: "TechCrunch article on the value of expert input in developer marketing."
+            },
+            {
+                title: "Learning How to Market to Developers",
+                url: "https://web.archive.org/web/20210119213330/https://devada.com/learning-how-market-to-developers/",
+                description: "Archived guide on effective strategies for marketing to developers."
             }
         ]
     },
-
+    
     {
         title: 'Social Media Marketing',
         slug: 'social-media-marketing',
@@ -281,6 +312,111 @@ export const resourcesData: CategoryData[] = [
                 title: "Marketing Your Tech Podcast",
                 url: "https://www.listennotes.com/podcast-academy/marketing-your-tech-podcast/",
                 description: "Tips on promoting and marketing a tech podcast by Listen Notes."
+            }
+        ]
+    },
+    {
+        title: 'Developer Experience (DX)',
+        slug: 'developer-experience',
+        description: 'Resources and insights on creating excellent developer experiences.',
+        resources: [
+            {
+                title: "Good Developer Experience",
+                url: "https://developerexperience.io/articles/good-developer-experience",
+                description: "An article discussing what constitutes a good developer experience."
+            },
+            {
+                title: "Why Your API Needs a Dedicated Developer Experience Team",
+                url: "https://nordicapis.com/why-your-api-needs-a-dedicated-developer-experience-team/",
+                description: "Insights on the importance of focusing on developer experience for APIs."
+            },
+            {
+                title: "APIs You Won't Hate",
+                url: "https://apisyouwonthate.com/",
+                description: "A resource dedicated to helping create APIs with great developer experiences."
+            }
+        ]
+    },
+    {
+        title: 'Developer Community Building',
+        slug: 'developer-community-building',
+        description: 'Strategies and insights for building and nurturing developer communities.',
+        resources: [
+            {
+                title: "Creating a Developer Community is a $1 Billion Bet for Tech Companies",
+                url: "https://therecursive.com/creating-a-developer-community-is-a-1-billion-bet-for-tech-companies/",
+                description: "An article on the significant investment tech companies are making in developer communities."
+            },
+            {
+                title: "The Business Value of Developer Relations",
+                url: "https://www.amazon.com/Business-Value-Developer-Relations-Communities/dp/1484237471",
+                description: "A book by Mary Thengvall on building and maintaining developer communities."
+            },
+            {
+                title: "Building High Impact Developer Communities",
+                url: "https://nader.substack.com/p/building-high-impact-developer-communities",
+                description: "A comprehensive guide on building developer communities by Nader."
+            }
+        ]
+    },
+    {
+        title: 'Developer Relations (DevRel) Resources',
+        slug: 'devrel-resources',
+        description: 'Curated resources and newsletters for staying updated on Developer Relations.',
+        resources: [
+            {
+                title: "DevRel Weekly",
+                url: "https://devrelweekly.com/",
+                description: "A weekly newsletter covering the latest in developer relations and developer marketing."
+            },
+            {
+                title: "DevRel YouTube Channel",
+                url: "https://www.youtube.com/c/DevRel",
+                description: "A YouTube channel dedicated to developer relations content and discussions."
+            },
+            {
+                title: "Developer Relations and Developer Marketing: They Aren't the Same Thing",
+                url: "https://aspleenic.medium.com/developer-relations-and-developer-marketing-they-arent-the-same-thing-35b896159825",
+                description: "An article explaining the differences between developer relations and developer marketing."
+            }
+        ]
+    },
+    {
+        title: 'Metrics and KPIs for DevRel',
+        slug: 'devrel-metrics',
+        description: 'Resources for measuring the success of Developer Relations programs.',
+        resources: [
+            {
+                title: "KPIs and Metrics for DevRel Programs",
+                url: "https://bitergia.com/blog/metrics/kpis-and-metrics-for-devrel-programs/",
+                description: "A guide to key performance indicators and metrics for developer relations programs."
+            },
+            {
+                title: "Measuring Developer Relations",
+                url: "https://www.swyx.io/measuring-devrel",
+                description: "A framework for measuring developer relations success by Swyx."
+            }
+        ]
+    },
+    {
+        title: 'Company Handbooks and Strategies',
+        slug: 'company-handbooks',
+        description: 'Public handbooks and strategies from tech companies on developer marketing and growth.',
+        resources: [
+            {
+                title: "GitLab Marketing Handbook",
+                url: "https://handbook.gitlab.com/handbook/marketing/",
+                description: "GitLab's public marketing handbook, including strategies for developer marketing."
+            },
+            {
+                title: "PostHog Growth and Marketing Handbook",
+                url: "https://posthog.com/handbook/growth/marketing",
+                description: "PostHog's handbook on growth and marketing strategies."
+            },
+            {
+                title: "Resend Handbook",
+                url: "https://resend.com/handbook",
+                description: "Resend's public handbook, which may include insights on developer-focused strategies."
             }
         ]
     }
