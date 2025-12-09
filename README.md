@@ -147,6 +147,7 @@ This section provides comprehensive insights and strategies for marketing to dev
 - [Hootsuite](https://hootsuite.com/) - Social media marketing and management dashboard.
 - [Typefully](https://typefully.com) - Write, schedule, and publish posts for LinkedIn, Mastodon, and 𝕏.
 - [TweetDeck](https://tweetdeck.twitter.com/) - Twitter dashboard for managing multiple accounts and scheduling tweets.
+- [GitHub Repo Visibility](https://nakora.ai/tools/github-repo-visibility) - Get personalized recommendations to increase the visibility of your GitHub project for free
 
 ### Communities
 - [EveryDeveloper](https://everydeveloper.com/) - A technical content marketing platform run by Adam DuVander, author of "Developer Marketing Does Not Exist".
