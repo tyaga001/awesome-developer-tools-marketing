@@ -143,6 +143,7 @@ This section provides comprehensive insights and strategies for marketing to dev
 - [GitHub](https://github.com) - While primarily for code, GitHub can be used for social sharing and community building.
 
 ### Tools
+- [Spiderhash](https://spiderhash.io/) - Webhook debugging and request inspection for marketing/API callback integrations.
 - [Buffer](https://buffer.com/) - Social media management platform.
 - [Hootsuite](https://hootsuite.com/) - Social media marketing and management dashboard.
 - [Typefully](https://typefully.com) - Write, schedule, and publish posts for LinkedIn, Mastodon, and 𝕏.
