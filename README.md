@@ -137,6 +137,7 @@ This section provides comprehensive insights and strategies for marketing to dev
 - [Timer Twitter video ad from Kinde](https://www.markepear.com/example/kinde-twitter-video-ad) - Timer to showing how quickly you can build with Kinde.
 
 ### Platforms
+- [daily.dev Ads](https://business.daily.dev/) - Native advertising platform to reach 1M+ developers in their personalized news feed, with targeting by programming languages and interests.
 - [Twitter](https://twitter.com) - A popular platform for developer discussions and sharing.
 - [LinkedIn](https://www.linkedin.com) - Professional networking and content sharing.
 - [Reddit](https://www.reddit.com) - Various subreddits for different programming languages and technologies.
