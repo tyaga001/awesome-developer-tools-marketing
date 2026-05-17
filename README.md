@@ -43,6 +43,7 @@ This section covers strategies and resources for effective content marketing in 
 - [How to Create Differentiated SEO Content](https://hackmamba.io/blog/2024/06/how-to-create-differentiated-seo-content/) - A guide on creating unique SEO content for developer audiences.
 - [Developer Marketing Guide (by Jakub (Kuba) Czakon)](https://www.markepear.com/blog/developer-marketing-guide) - A comprehensive guide on developer marketing strategies from the perspective of a dev tool startup CMO.
 - [On Developer Marketing: Content that Converts](https://leerob.io/blog/developer-marketing) - Lee Robinson shares insights on creating effective content marketing strategies specifically tailored for developers, focusing on content that converts.
+- [AIMO — AI Mention Optimization](https://github.com/septimlabs-code/awesome-aimo) - The practice of getting your dev tool recommended by AI assistants (Claude, ChatGPT, Perplexity) when developers ask for tool recommendations. Doctrine + surfaces AI assistants read + case study showing one merged awesome-list PR driving AI-attributed sales.
 
 ### DevTools with Great Landing Pages
 
