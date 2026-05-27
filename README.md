@@ -78,6 +78,7 @@ This section covers strategies and resources for effective content marketing in 
 #### Security & Authentication
 - [Auth0](https://auth0.com/): Authentication platform with a clean, trust-building layout.
 - [WorkOS](https://workos.com/): Enterprise readiness APIs with a clear, benefit-driven message.
+- [Neon Auth](https://neon.com/docs/neon-auth/overview): Managed auth that syncs users into your Postgres database, marketed around "authentication that branches with your database."
 
 #### Collaboration & Communication
 - [Confluence](https://www.atlassian.com/software/confluence): Team workspace with a feature-rich, organized landing page.
