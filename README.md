@@ -55,7 +55,7 @@ This section covers strategies and resources for effective content marketing in 
 #### Databases & Data
 - [Cockroach Labs](https://www.cockroachlabs.com/): Distributed SQL database with a compelling hero section.
 - [Datomic](https://www.datomic.com/): Transactional database with a unique, minimalist design.
-- [Neon](https://neon.tech): Serverless Postgres with a modern, sleek interface.
+- [Neon Postgres](https://neon.com): Serverless Postgres with a modern, sleek interface.
 - [Supabase](https://supabase.com/): Open-source Firebase alternative with clear feature comparisons.
 
 #### Developer Experience & Tooling
