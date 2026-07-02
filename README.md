@@ -200,6 +200,7 @@ This section provides comprehensive insights and strategies for marketing to dev
 - [Google Analytics](https://analytics.google.com/) - Web analytics service that tracks and reports website traffic.
 - [Mixpanel](https://mixpanel.com/) - Product analytics tool for tracking user interactions with web and mobile applications.
 - [Amplitude](https://amplitude.com/) - Product analytics platform for tracking user behavior across devices.
+- [GetAppNiche](https://getappniche.com/) - App Store intelligence for indie iOS founders tracking revenue estimates, downloads, ASO keywords, ads, and reviews.
 
 ### Best Practices
 - [How to Measure Developer Experience](https://www.developerexperience.org/articles/how-to-measure-developer-experience) - A guide on quantifying and improving developer experience.
