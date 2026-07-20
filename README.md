@@ -172,6 +172,7 @@ This section provides comprehensive insights and strategies for marketing to dev
 ### Tools
 - [Google Search Console](https://search.google.com/search-console/about) - Free tool from Google to help you monitor and troubleshoot your site's presence in Google Search results.
 - [Screaming Frog SEO Spider](https://www.screamingfrog.co.uk/seo-spider/) - Website crawler to help you improve onsite SEO.
+- [Screpy](https://screpy.com/) - AI SEO platform for technical audits, rank tracking, Core Web Vitals, and reports.
 
 ### Articles
 
