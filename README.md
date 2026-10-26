@@ -57,6 +57,7 @@ This section covers strategies and resources for effective content marketing in 
 - [Datomic](https://www.datomic.com/): Transactional database with a unique, minimalist design.
 - [Neon](https://neon.tech): Serverless Postgres with a modern, sleek interface.
 - [Supabase](https://supabase.com/): Open-source Firebase alternative with clear feature comparisons.
+- [Mode VC WebMCP & Backlink Lens](https://modevc.com/tools/webmcp-backlink-lens) : Open-source Manifest V3 Chrome Extension and W3C WebMCP inspector for auditing dofollow/nofollow links and `.well-known/mcp.json` manifests.
 
 #### Developer Experience & Tooling
 - [CodeSandbox](https://codesandbox.io/): Online code editor with an interactive homepage.
