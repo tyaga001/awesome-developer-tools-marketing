@@ -400,6 +400,10 @@ start reading articles on the latest in developer tools, databases, and SaaS at 
 
 Awesome Developer Tools Marketing is an open-source repository that collects and organizes resources for marketing developer tools and services. my goal is to help founders, marketers, and developers find effective strategies and tools for reaching and engaging with the developer community.
 
+## Vertical MCP Directories
+
+- [No Stairs Please](https://nostairsplease.com/) — Live music venue directory covering all 50 US states with a public MCP endpoint (`https://nostairsplease.com/mcp`).
+
 ## Contributing
 
 Your contributions are always welcome! Please read the [contribution guidelines](CONTRIBUTING.md) first.
